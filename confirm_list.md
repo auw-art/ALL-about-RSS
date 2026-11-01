@@ -2,190 +2,190 @@
 
 _以下条目已连续 3 周期失效，请人工确认后再在 master 分支 cross out。_
 
-_生成于: 2026-10-15_
+_生成于: 2026-11-01_
 
-- [ ] RSS 是干什么的？ | https://xuchi.name/117/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//xuchi.name/117/%22
-- [ ] 如何使用 RSS | https://www.ruanyifeng.com/blog/2006/01/rss.html
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.ruanyifeng.com/blog/2006/01/rss.html%22
-- [ ] RSS Tracker (Former name: RSS Stalker) | https://blog.richasy.cn/document/rss/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//blog.richasy.cn/document/rss/%22
-- [ ] Newsairy | https://qebapps.statichost.page/newsairy/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//qebapps.statichost.page/newsairy/%22
-- [ ] 小乐RSS阅读器 | https://sites.google.com/site/zzllrrrssreader/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//sites.google.com/site/zzllrrrssreader/%22
-- [ ] RSS Made Easy | https://www.youtube.com/watch?v=6HNUqDL-pI8
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.youtube.com/watch%3Fv%3D6HNUqDL-pI8%22
-- [ ] ~~快知~~ | http://kzfeed.com/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//kzfeed.com/%22
-- [ ] Flipboard | https://flipboard.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//flipboard.com/%22
-- [ ] RSS 0.90 | https://www.rssboard.org/rss-0-9-0
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rssboard.org/rss-0-9-0%22
-- [ ] RSS3 | https://rss3.io/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss3.io/%22
-- [ ] Feedbro | https://nodetics.com/feedbro/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//nodetics.com/feedbro/%22
-- [ ] ReadKit | https://readkitapp.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//readkitapp.com/%22
-- [ ] Schema Structured Syndication | https://3s-docs.org/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//3s-docs.org/%22
-- [ ] OPML | http://opml.org/spec2.opml
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//opml.org/spec2.opml%22
-- [ ] the new Reeder | https://reederapp.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//reederapp.com/%22
-- [ ] Bloglovin’ | https://www.bloglovin.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.bloglovin.com/%22
-- [ ] USEPANDA | https://usepanda.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//usepanda.com/%22
-- [ ] Uread | https://uread.ai/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//uread.ai/%22
-- [ ] About Feeds | https://aboutfeeds.com
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//aboutfeeds.com%22
-- [ ] ~~Newsfold~~ | http://mvilla.it/newsfold/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//mvilla.it/newsfold/%22
-- [ ] Why you should consider using RSS | https://huey.xyz/posts/2021-07-18-rss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//huey.xyz/posts/2021-07-18-rss%22
-- [ ] 期待（Angelia） | https://angelia.codeeer.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//angelia.codeeer.com/%22
-- [ ] irreader | http://irreader.fatecore.com/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//irreader.fatecore.com/%22
-- [ ] Leaf for Mac | https://rockysandstudio.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//rockysandstudio.com/%22
-- [ ] Royal RSS Reader | http://the-sz.com/products/royal/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//the-sz.com/products/royal/%22
-- [ ] RSS feed to JSON API | https://rss-to-json-serverless-api.vercel.app/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss-to-json-serverless-api.vercel.app/%22
-- [ ] RSS 3.0 | http://www.aaronsw.com/2002/rss30
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//www.aaronsw.com/2002/rss30%22
-- [ ] News+ | http://noinnion.com/newsplus/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//noinnion.com/newsplus/%22
 - [ ] NewsBlur | https://newsblur.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//newsblur.com/%22
-- [ ] Reeder Classic | https://reederapp.com/classic/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//reederapp.com/classic/%22
-- [ ] FeedDemon | http://www.feeddemon.com/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//www.feeddemon.com/%22
-- [ ] RSS + vCard | https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html%22
-- [ ] h-feed | https://microformats.org/wiki/h-feed
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//microformats.org/wiki/h-feed%22
-- [ ] lire | http://lireapp.com/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//lireapp.com/%22
-- [ ] Inoreader | https://www.inoreader.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.inoreader.com/%22
-- [ ] Unread | https://www.goldenhillsoftware.com/unread/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.goldenhillsoftware.com/unread/%22
-- [ ] RSS 工具和应用场景 | https://zhuanlan.zhihu.com/p/109813899
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//zhuanlan.zhihu.com/p/109813899%22
-- [ ] GNOME Feeds | https://gabmus.gitlab.io/gnome-feeds/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//gabmus.gitlab.io/gnome-feeds/%22
-- [ ] Feedly | https://feedly.com
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedly.com%22
-- [ ] News Explorer | https://betamagic.nl/products/newsexplorer.html
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//betamagic.nl/products/newsexplorer.html%22
-- [ ] Winds | https://getstream.io/winds/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//getstream.io/winds/%22
-- [ ] RSS - 高效率的阅读方式 | https://sspai.com/post/56198
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//sspai.com/post/56198%22
-- [ ] RSS 订阅傻瓜式教程 | https://mp.weixin.qq.com/s/KKPO3otk5LBeLMQTtlqHvg
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//mp.weixin.qq.com/s/KKPO3otk5LBeLMQTtlqHvg%22
-- [ ] RSS2JSONFeed converter | https://rss2json.com
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss2json.com%22
-- [ ] Wikipedia: RSS | https://en.wikipedia.org/wiki/RSS
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//en.wikipedia.org/wiki/RSS%22
-- [ ] GeoRSS | http://www.georss.org/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//www.georss.org/%22
-- [ ] feeder | https://feeder.co/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//feeder.co/%22
-- [ ] Feed Analyzer | https://www.rss.style/feed-analyzer.html
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rss.style/feed-analyzer.html%22
-- [ ] The Unreader | https://apps.apple.com/app/the-unreader-a-feedbin-client/id1496863148
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//apps.apple.com/app/the-unreader-a-feedbin-client/id1496863148%22
-- [ ] The Power of RSS: an image | https://www.elliance.com/media/61850/the_power_of_rss.gif
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.elliance.com/media/61850/the_power_of_rss.gif%22
-- [ ] Fiery Feeds | http://cocoacake.net/apps/fiery/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//cocoacake.net/apps/fiery/%22
-- [ ] Back to the Future with RSS | https://ncase.me/rss/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//ncase.me/rss/%22
-- [ ] Zr 孜然 | https://www.coolapk.com/apk/176794
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.coolapk.com/apk/176794%22
-- [ ] Liferea | https://lzone.de/liferea/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//lzone.de/liferea/%22
+- [ ] RSS 是干什么的？ | https://xuchi.name/117/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//xuchi.name/117/%22
+- [ ] JSON Feed | https://jsonfeed.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//jsonfeed.org/%22
+- [ ] Newsairy | https://qebapps.statichost.page/newsairy/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//qebapps.statichost.page/newsairy/%22
 - [ ] Feed Validator for RSS and Atom | https://validator.w3.org/feed/check.cgi
     - 搜索URL: https://www.google.com/search?q=%22https%3A//validator.w3.org/feed/check.cgi%22
+- [ ] ~~Newsfold~~ | http://mvilla.it/newsfold/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//mvilla.it/newsfold/%22
+- [ ] Feedbro | https://nodetics.com/feedbro/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//nodetics.com/feedbro/%22
+- [ ] RSS 订阅傻瓜式教程 | https://mp.weixin.qq.com/s/KKPO3otk5LBeLMQTtlqHvg
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//mp.weixin.qq.com/s/KKPO3otk5LBeLMQTtlqHvg%22
+- [ ] 小乐RSS阅读器 | https://sites.google.com/site/zzllrrrssreader/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//sites.google.com/site/zzllrrrssreader/%22
 - [ ] RSS 2.0 | https://www.rssboard.org/rss-specification
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rssboard.org/rss-specification%22
-- [ ] Feedbin | https://feedbin.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedbin.com/%22
+- [ ] The Power of RSS: an image | https://www.elliance.com/media/61850/the_power_of_rss.gif
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.elliance.com/media/61850/the_power_of_rss.gif%22
+- [ ] Why you should consider using RSS | https://huey.xyz/posts/2021-07-18-rss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//huey.xyz/posts/2021-07-18-rss%22
+- [ ] RSS + vCard | https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html%22
+- [ ] Akregator | https://kde.org/applications/internet/org.kde.akregator
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//kde.org/applications/internet/org.kde.akregator%22
+- [ ] Atom | http://www.atomenabled.org/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//www.atomenabled.org/%22
 - [ ] An Intro to RSS Feeds | https://meganesulli.com/blog/how-rss-works
     - 搜索URL: https://www.google.com/search?q=%22https%3A//meganesulli.com/blog/how-rss-works%22
 - [ ] RSS 1.0 | https://web.resource.org/rss/1.0/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//web.resource.org/rss/1.0/%22
-- [ ] You Need Feeds | https://www.youneedfeeds.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.youneedfeeds.com/%22
-- [ ] RSS 0.91 | https://www.rssboard.org/rss-0-9-1-netscape
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rssboard.org/rss-0-9-1-netscape%22
-- [ ] feed-generator.app | https://feed-generator.app/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//feed-generator.app/%22
-- [ ] JSON Feed | https://jsonfeed.org/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//jsonfeed.org/%22
-- [ ] RSS Bandit | http://rssbandit.org/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//rssbandit.org/%22
-- [ ] Fraidycat | https://fraidyc.at/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//fraidyc.at/%22
+- [ ] 如何使用 RSS | https://www.ruanyifeng.com/blog/2006/01/rss.html
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.ruanyifeng.com/blog/2006/01/rss.html%22
+- [ ] Wikipedia: RSS | https://en.wikipedia.org/wiki/RSS
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//en.wikipedia.org/wiki/RSS%22
+- [ ] USEPANDA | https://usepanda.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//usepanda.com/%22
+- [ ] lire | http://lireapp.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//lireapp.com/%22
 - [ ] NetNewsWire | https://ranchero.com/netnewswire/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//ranchero.com/netnewswire/%22
-- [ ] QuiteRSS | https://quiterss.org/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//quiterss.org/%22
+- [ ] Winds | https://getstream.io/winds/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//getstream.io/winds/%22
 - [ ] Readably | https://twitter.com/readablyapp
     - 搜索URL: https://www.google.com/search?q=%22https%3A//twitter.com/readablyapp%22
-- [ ] Atom | http://www.atomenabled.org/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//www.atomenabled.org/%22
-- [ ] RSS/Atom to JSONFeed Converter | https://feed2json.org/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//feed2json.org/%22
-- [ ] Media RSS Specification | https://www.rssboard.org/media-rss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rssboard.org/media-rss%22
-- [ ] Feed Extractor | https://extractor-demos.pages.dev/feed-extractor
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//extractor-demos.pages.dev/feed-extractor%22
+- [ ] RSS - 高效率的阅读方式 | https://sspai.com/post/56198
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//sspai.com/post/56198%22
+- [ ] QuiteRSS | https://quiterss.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//quiterss.org/%22
+- [ ] feed-generator.app | https://feed-generator.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feed-generator.app/%22
+- [ ] RSS3 | https://rss3.io/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss3.io/%22
+- [ ] RSS 0.91 | https://www.rssboard.org/rss-0-9-1-netscape
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rssboard.org/rss-0-9-1-netscape%22
+- [ ] RSS feed to JSON API | https://rss-to-json-serverless-api.vercel.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss-to-json-serverless-api.vercel.app/%22
+- [ ] GNOME Feeds | https://gabmus.gitlab.io/gnome-feeds/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//gabmus.gitlab.io/gnome-feeds/%22
+- [ ] RSS2JSONFeed converter | https://rss2json.com
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss2json.com%22
 - [ ] source namespace | http://source.scripting.com/#1653758422000
     - 搜索URL: https://www.google.com/search?q=%22http%3A//source.scripting.com/%231653758422000%22
+- [ ] FeedDemon | http://www.feeddemon.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//www.feeddemon.com/%22
+- [ ] RSS Tracker (Former name: RSS Stalker) | https://blog.richasy.cn/document/rss/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//blog.richasy.cn/document/rss/%22
+- [ ] RSS 0.90 | https://www.rssboard.org/rss-0-9-0
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rssboard.org/rss-0-9-0%22
+- [ ] OPML | http://opml.org/spec2.opml
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//opml.org/spec2.opml%22
+- [ ] You Need Feeds | https://www.youneedfeeds.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.youneedfeeds.com/%22
+- [ ] 期待（Angelia） | https://angelia.codeeer.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//angelia.codeeer.com/%22
+- [ ] Feed Extractor | https://extractor-demos.pages.dev/feed-extractor
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//extractor-demos.pages.dev/feed-extractor%22
+- [ ] Uread | https://uread.ai/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//uread.ai/%22
+- [ ] the new Reeder | https://reederapp.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//reederapp.com/%22
+- [ ] RSS Bandit | http://rssbandit.org/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//rssbandit.org/%22
+- [ ] Inoreader | https://www.inoreader.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.inoreader.com/%22
+- [ ] The Unreader | https://apps.apple.com/app/the-unreader-a-feedbin-client/id1496863148
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//apps.apple.com/app/the-unreader-a-feedbin-client/id1496863148%22
+- [ ] Reeder Classic | https://reederapp.com/classic/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//reederapp.com/classic/%22
+- [ ] RSS 工具和应用场景 | https://zhuanlan.zhihu.com/p/109813899
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//zhuanlan.zhihu.com/p/109813899%22
+- [ ] Feedly | https://feedly.com
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedly.com%22
+- [ ] RSS 3.0 | http://www.aaronsw.com/2002/rss30
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//www.aaronsw.com/2002/rss30%22
+- [ ] RSS Made Easy | https://www.youtube.com/watch?v=6HNUqDL-pI8
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.youtube.com/watch%3Fv%3D6HNUqDL-pI8%22
+- [ ] ~~快知~~ | http://kzfeed.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//kzfeed.com/%22
+- [ ] About Feeds | https://aboutfeeds.com
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//aboutfeeds.com%22
+- [ ] Fiery Feeds | http://cocoacake.net/apps/fiery/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//cocoacake.net/apps/fiery/%22
+- [ ] GeoRSS | http://www.georss.org/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//www.georss.org/%22
+- [ ] irreader | http://irreader.fatecore.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//irreader.fatecore.com/%22
+- [ ] h-feed | https://microformats.org/wiki/h-feed
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//microformats.org/wiki/h-feed%22
+- [ ] RSS/Atom to JSONFeed Converter | https://feed2json.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feed2json.org/%22
+- [ ] News+ | http://noinnion.com/newsplus/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//noinnion.com/newsplus/%22
+- [ ] Media RSS Specification | https://www.rssboard.org/media-rss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rssboard.org/media-rss%22
+- [ ] Back to the Future with RSS | https://ncase.me/rss/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//ncase.me/rss/%22
+- [ ] Feed Analyzer | https://www.rss.style/feed-analyzer.html
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rss.style/feed-analyzer.html%22
+- [ ] Feedbin | https://feedbin.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedbin.com/%22
+- [ ] Schema Structured Syndication | https://3s-docs.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//3s-docs.org/%22
+- [ ] Royal RSS Reader | http://the-sz.com/products/royal/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//the-sz.com/products/royal/%22
+- [ ] feeder | https://feeder.co/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feeder.co/%22
+- [ ] Unread | https://www.goldenhillsoftware.com/unread/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.goldenhillsoftware.com/unread/%22
+- [ ] Bloglovin’ | https://www.bloglovin.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.bloglovin.com/%22
+- [ ] Flipboard | https://flipboard.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//flipboard.com/%22
 - [ ] 厚墨 deepink | https://www.deepink.cn/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.deepink.cn/%22
-- [ ] Akregator | https://kde.org/applications/internet/org.kde.akregator
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//kde.org/applications/internet/org.kde.akregator%22
-- [ ] Raven Reader | https://ravenreader.app/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//ravenreader.app/%22
-- [ ] RSS Reader Prime | http://orzer.zhangzichuan.cn/2019/03/26/ReaderPrime/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//orzer.zhangzichuan.cn/2019/03/26/ReaderPrime/%22
+- [ ] Fraidycat | https://fraidyc.at/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//fraidyc.at/%22
+- [ ] Zr 孜然 | https://www.coolapk.com/apk/176794
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.coolapk.com/apk/176794%22
+- [ ] News Explorer | https://betamagic.nl/products/newsexplorer.html
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//betamagic.nl/products/newsexplorer.html%22
+- [ ] Leaf for Mac | https://rockysandstudio.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rockysandstudio.com/%22
+- [ ] ReadKit | https://readkitapp.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//readkitapp.com/%22
 - [ ] Cappuccino | https://cappuccinoapp.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//cappuccinoapp.com/%22
+- [ ] RSS Reader Prime | http://orzer.zhangzichuan.cn/2019/03/26/ReaderPrime/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//orzer.zhangzichuan.cn/2019/03/26/ReaderPrime/%22
+- [ ] Raven Reader | https://ravenreader.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//ravenreader.app/%22
+- [ ] DEVONthink | https://www.devontechnologies.com/apps/devonthink
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.devontechnologies.com/apps/devonthink%22
 - [ ] Sismics Reader | https://www.sismics.com/reader/#!/home
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.sismics.com/reader/%23%21/home%22
 - [ ] Vienna | https://www.vienna-rss.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.vienna-rss.com/%22
 - [ ] 深蓝阅读 bluereader | https://bluereader.org/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//bluereader.org/%22
-- [ ] DEVONthink | https://www.devontechnologies.com/apps/devonthink
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.devontechnologies.com/apps/devonthink%22
-- [ ] Newsflow | https://www.microsoft.com/store/apps/9nblggh58s5r/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.microsoft.com/store/apps/9nblggh58s5r/%22
+- [ ] Liferea | https://lzone.de/liferea/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//lzone.de/liferea/%22
 - [ ] NewsBar | http://www.newsbar-app.com/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//www.newsbar-app.com/%22
+- [ ] Newsflow | https://www.microsoft.com/store/apps/9nblggh58s5r/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.microsoft.com/store/apps/9nblggh58s5r/%22
 - [ ] gReader | http://noinnion.com/greader/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//noinnion.com/greader/%22
 - [ ] Ego Reader | https://egorss.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//egorss.com/%22
+- [ ] FeedReader | https://jangernert.github.io/FeedReader/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//jangernert.github.io/FeedReader/%22
 - [ ] Fluent Reader | https://hyliu.me/fluent-reader/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//hyliu.me/fluent-reader/%22
 - [ ] 订阅帝 | https://www.dingyuedi.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.dingyuedi.com/%22
-- [ ] CubeRSS Reader | https://www.cube-soft.jp/cuberssreader/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.cube-soft.jp/cuberssreader/%22
 - [ ] AnotherRSS | https://no-go.github.io/AnotherRSS/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//no-go.github.io/AnotherRSS/%22
-- [ ] FeedReader | https://jangernert.github.io/FeedReader/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//jangernert.github.io/FeedReader/%22
+- [ ] CubeRSS Reader | https://www.cube-soft.jp/cuberssreader/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.cube-soft.jp/cuberssreader/%22
 - [ ] NewsFlash | https://gitlab.com/news-flash/news_flash_gtk
     - 搜索URL: https://www.google.com/search?q=%22https%3A//gitlab.com/news-flash/news_flash_gtk%22
 - [ ] Newsify | https://newsify.co/
@@ -216,10 +216,10 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//dinorss.org/%22
 - [ ] An Otter RSS | https://twitter.com/AnOtterRSS
     - 搜索URL: https://www.google.com/search?q=%22https%3A//twitter.com/AnOtterRSS%22
-- [ ] Smart RSS extension | https://github.com/SmartRSS/Smart-RSS
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/SmartRSS/Smart-RSS%22
 - [ ] Ark View | https://www.definestudio.in/2018/02/introducing-ark-view.html
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.definestudio.in/2018/02/introducing-ark-view.html%22
+- [ ] Smart RSS extension | https://github.com/SmartRSS/Smart-RSS
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/SmartRSS/Smart-RSS%22
 - [ ] Socialife / News Suite by Sony | http://socialife.sony.net/en_ww/what-is/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//socialife.sony.net/en_ww/what-is/%22
 - [ ] Stories Now | https://n4no.com/projects/storiesNow/
@@ -234,14 +234,14 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//zoziapps.ch/slowfeeds/%22
 - [ ] Harbor | https://harbor.page/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//harbor.page/%22
-- [ ] Kinss for Kindle | https://github.com/xizeyoupan/kinss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/xizeyoupan/kinss%22
+- [ ] Sage-like | https://addons.mozilla.org/en-US/firefox/addon/sage-like/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//addons.mozilla.org/en-US/firefox/addon/sage-like/%22
 - [ ] Pluma RSS Reader | https://www.reddit.com/r/androidapps/comments/ic0fqi/pluma_rss_reader/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/androidapps/comments/ic0fqi/pluma_rss_reader/%22
 - [ ] Follow feature @ Chrome | https://www.pcmag.com/news/google-follow-rss-reader-appears-in-chromes-stable-release
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.pcmag.com/news/google-follow-rss-reader-appears-in-chromes-stable-release%22
-- [ ] Sage-like | https://addons.mozilla.org/en-US/firefox/addon/sage-like/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//addons.mozilla.org/en-US/firefox/addon/sage-like/%22
+- [ ] Feedibus | https://www.reddit.com/r/rss/comments/qdgv96/feedibus_a_new_rss_feed_reader_app_powered_by/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/rss/comments/qdgv96/feedibus_a_new_rss_feed_reader_app_powered_by/%22
 - [ ] LinkLonk | https://linklonk.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//linklonk.com/%22
 - [ ] Big News | https://bignews.app/
@@ -258,8 +258,6 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//reams.app/%22
 - [ ] RSS News Ticker | https://ticker.salz-amt.co.at/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//ticker.salz-amt.co.at/%22
-- [ ] Feedibus | https://www.reddit.com/r/rss/comments/qdgv96/feedibus_a_new_rss_feed_reader_app_powered_by/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/rss/comments/qdgv96/feedibus_a_new_rss_feed_reader_app_powered_by/%22
 - [ ] WebFeed | https://taoshu.in/webfeed/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//taoshu.in/webfeed/%22
 - [ ] Matter Reader | https://hq.getmatter.com/
@@ -272,18 +270,16 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feeeed.nateparrott.com/%22
 - [ ] 想看 | https://chentiansaber.notion.site/chentiansaber/APP-4befacfd391c4530b462ff85296aaaeb
     - 搜索URL: https://www.google.com/search?q=%22https%3A//chentiansaber.notion.site/chentiansaber/APP-4befacfd391c4530b462ff85296aaaeb%22
-- [ ] Slick RSS | https://github.com/hecktarzuli/slick-rss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/hecktarzuli/slick-rss%22
+- [ ] Next Level News | https://nextlevelnews.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//nextlevelnews.app/%22
 - [ ] Artykul | https://artykul.org/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//artykul.org/%22
 - [ ] RSS Brain | https://rssbrain.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rssbrain.com/%22
-- [ ] Next Level News | https://nextlevelnews.app/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//nextlevelnews.app/%22
-- [ ] RSS 阅读器 | https://logspot.hocgin.top/addone-rss-reader
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//logspot.hocgin.top/addone-rss-reader%22
 - [ ] ReadWise Reader | https://readwise.io/read
     - 搜索URL: https://www.google.com/search?q=%22https%3A//readwise.io/read%22
+- [ ] RSS 阅读器 | https://logspot.hocgin.top/addone-rss-reader
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//logspot.hocgin.top/addone-rss-reader%22
 - [ ] Feedy | https://krillapps.com/feedy/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//krillapps.com/feedy/%22
 - [ ] Stratum | https://andrewzuo.com/a-brief-history-of-stratum-9b286c238ad7
@@ -366,6 +362,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.netvibes.com/%22
 - [ ] Enkel | https://enkel.fyi/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//enkel.fyi/%22
+- [ ] Newspipe | https://www.newspipe.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.newspipe.org/%22
 - [ ] Feeds Pub | https://feeds.pub
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feeds.pub%22
 - [ ] Feedspot | https://www.feedspot.com/
@@ -376,10 +374,10 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feedhq.org/%22
 - [ ] Simple RSS Reader | https://simplerssreader.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//simplerssreader.com/%22
-- [ ] Newspipe | https://www.newspipe.org/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.newspipe.org/%22
 - [ ] Miniflux | https://miniflux.app/hosting.html
     - 搜索URL: https://www.google.com/search?q=%22https%3A//miniflux.app/hosting.html%22
+- [ ] Kinss for Kindle | https://github.com/xizeyoupan/kinss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/xizeyoupan/kinss%22
 - [ ] Nooshub | https://www.nooshub.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.nooshub.com/%22
 - [ ] CommaFeed | https://www.commafeed.com/
@@ -430,8 +428,10 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//goodnews.click/%22
 - [ ] Unvisited.io | https://unvisited.io/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//unvisited.io/%22
-- [ ] Newsfeeder | https://newsfeeder.esstudio.site/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//newsfeeder.esstudio.site/%22
+- [ ] Slick RSS | https://github.com/hecktarzuli/slick-rss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/hecktarzuli/slick-rss%22
+- [ ] Flym | https://github.com/FredJul/Flym
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/FredJul/Flym%22
 - [ ] Pétrolette | https://petrolette.space/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//petrolette.space/%22
 - [ ] Readian News | https://readian.io/
@@ -476,16 +476,16 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//mofeed.news/%22
 - [ ] FeedGears | https://www.feedgears.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.feedgears.com/%22
-- [ ] GistReader | https://gistreader.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//gistreader.com/%22
+- [ ] Newsfeeder | https://newsfeeder.esstudio.site/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//newsfeeder.esstudio.site/%22
 - [ ] FeedGrid | https://feedgrid.io/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feedgrid.io/%22
 - [ ] Apricot | https://theapricot.io/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//theapricot.io/%22
 - [ ] Vore | https://vore.website/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//vore.website/%22
-- [ ] Homura | https://github.com/Saul-Mirone/homura
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Saul-Mirone/homura%22
+- [ ] feedful | https://feedful.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedful.app/%22
 - [ ] FeedDeck | https://feeddeck.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feeddeck.app/%22
 - [ ] Readine | https://pwa.readine.app/
@@ -508,10 +508,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rssisawesome.com/%22
 - [ ] Follow | https://follow.is/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//follow.is/%22
-- [ ] feedful | https://feedful.app/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedful.app/%22
-- [ ] Flym | https://github.com/FredJul/Flym
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/FredJul/Flym%22
+- [ ] GistReader | https://gistreader.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//gistreader.com/%22
 - [ ] Tiny Tiny RSS | https://tt-rss.org
     - 搜索URL: https://www.google.com/search?q=%22https%3A//tt-rss.org%22
 - [ ] Awesome TTRSS | http://ttrss.henry.wang/
@@ -520,6 +518,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.pluchon.com/en/tiny_reader_rss.php%22
 - [ ] FreshRSS | https://freshrss.org
     - 搜索URL: https://www.google.com/search?q=%22https%3A//freshrss.org%22
+- [ ] Homura | https://github.com/Saul-Mirone/homura
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Saul-Mirone/homura%22
 - [ ] selfoss | https://selfoss.aditu.de/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//selfoss.aditu.de/%22
 - [ ] RSSANT 蚁阅 | https://rss.anyant.com/
@@ -528,10 +528,10 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//miniflux.app/index.html%22
 - [ ] Collie | https://parksb.github.io/work/18.html
     - 搜索URL: https://www.google.com/search?q=%22https%3A//parksb.github.io/work/18.html%22
-- [ ] Heroku-Miniflux | https://github.com/sayomelu/heroku-miniflux
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/sayomelu/heroku-miniflux%22
 - [ ] Reading for RSS | https://apps.apple.com/app/reading-for-rss/id1611939852
     - 搜索URL: https://www.google.com/search?q=%22https%3A//apps.apple.com/app/reading-for-rss/id1611939852%22
+- [ ] Heroku-Miniflux | https://github.com/sayomelu/heroku-miniflux
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/sayomelu/heroku-miniflux%22
 - [ ] Resser 阅见 | https://github.com/rhinoc/Resser
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/rhinoc/Resser%22
 - [ ] Newspipe | https://www.newspipe.org/
@@ -546,8 +546,6 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feedbin.com/%22
 - [ ] KrISS feed | http://tontof.net/kriss/feed/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//tontof.net/kriss/feed/%22
-- [ ] docker-ttrss | https://github.com/x86dev/docker-ttrss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/x86dev/docker-ttrss%22
 - [ ] FeedFox | https://feedfox.netlify.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feedfox.netlify.app/%22
 - [ ] Feedsubs | https://feedsubs.com/
@@ -572,6 +570,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//lab.passiomatic.com/coldsweat/%22
 - [ ] Refeed | https://refeedreader.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//refeedreader.com/%22
+- [ ] docker-ttrss | https://github.com/x86dev/docker-ttrss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/x86dev/docker-ttrss%22
 - [ ] Readfine | https://readfine.app
     - 搜索URL: https://www.google.com/search?q=%22https%3A//readfine.app%22
 - [ ] Outlook | https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook
@@ -590,16 +590,10 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//newsboat.org/%22
 - [ ] feed2exec | https://feed2exec.readthedocs.io/en/stable/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feed2exec.readthedocs.io/en/stable/%22
-- [ ] C-LX RSS | https://github.com/timovn/C-LX-RSS
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/timovn/C-LX-RSS%22
 - [ ] Journalist | https://xn--gckvb8fzb.com/journalist-an-rss-aggregator/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//xn--gckvb8fzb.com/journalist-an-rss-aggregator/%22
-- [ ] GORSS - Go RSS Reader | https://github.com/Lallassu/gorss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Lallassu/gorss%22
-- [ ] neix | https://github.com/tomschwarz/neix
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/tomschwarz/neix%22
-- [ ] Elfeed Emacs Web Feed Reader | https://github.com/skeeto/elfeed
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/skeeto/elfeed%22
+- [ ] C-LX RSS | https://github.com/timovn/C-LX-RSS
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/timovn/C-LX-RSS%22
 - [ ] Notion-Feed | https://notion-feed.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//notion-feed.com/%22
 - [ ] Notion RSS Reader | https://dev.to/watsuyo/new-release-notion-rss-reader-1jc4
@@ -616,24 +610,28 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//zotero.org%22
 - [ ] ZotEZ² | https://zotez2.ezbio.net/index.php
     - 搜索URL: https://www.google.com/search?q=%22https%3A//zotez2.ezbio.net/index.php%22
+- [ ] Syndicationd | https://github.com/ymgyt/syndicationd
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/ymgyt/syndicationd%22
 - [ ] Microsoft SharePoint | https://sharepoint.handsontek.net/2020/11/01/create-rss-feed-using-sharepoint-news/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//sharepoint.handsontek.net/2020/11/01/create-rss-feed-using-sharepoint-news/%22
 - [ ] Brave Today | https://brave.com/brave-today-rss/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//brave.com/brave-today-rss/%22
 - [ ] utools | https://u.tools/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//u.tools/%22
-- [ ] eilmeldung | https://github.com/christo-auer/eilmeldung
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/christo-auer/eilmeldung%22
 - [ ] Planet | https://planetable.eth.limo/C171164A-F0B7-4915-9FC6-4BC4217D7971/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//planetable.eth.limo/C171164A-F0B7-4915-9FC6-4BC4217D7971/%22
-- [ ] rssTea | https://github.com/avadhesh18/rssTea
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/avadhesh18/rssTea%22
+- [ ] neix | https://github.com/tomschwarz/neix
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/tomschwarz/neix%22
+- [ ] eilmeldung | https://github.com/christo-auer/eilmeldung
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/christo-auer/eilmeldung%22
 - [ ] Stario Launcher | https://www.producthunt.com/products/stario-launcher
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.producthunt.com/products/stario-launcher%22
+- [ ] Elfeed Emacs Web Feed Reader | https://github.com/skeeto/elfeed
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/skeeto/elfeed%22
 - [ ] Mastofeeder | https://mastofeeder.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//mastofeeder.com/%22
-- [ ] GARSS | https://github.com/zhaoolee/garss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/zhaoolee/garss%22
+- [ ] Cleed | https://github.com/radulucut/cleed
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/radulucut/cleed%22
 - [ ] TidyRead | https://www.tidyread.info/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.tidyread.info/%22
 - [ ] feed.nvim - Neovim Web Feed Reader | https://github.com/neo451/feed.nvim
@@ -650,62 +648,64 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//help.medium.com/hc/en-us/articles/214874118-Using-RSS-feeds-of-profiles-publications-and-topics%22
 - [ ] Bing | https://www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/%22
-- [ ] Cleed | https://github.com/radulucut/cleed
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/radulucut/cleed%22
+- [ ] Yahoo | https://www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/%22
 - [ ] DuckDuckGo | https://www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/%22
 - [ ] Vimeo | https://help.rasa.io/hc/en-us/articles/360045535193-How-to-create-an-rss-feed-for-a-Vimeo-channel
     - 搜索URL: https://www.google.com/search?q=%22https%3A//help.rasa.io/hc/en-us/articles/360045535193-How-to-create-an-rss-feed-for-a-Vimeo-channel%22
 - [ ] Hey World | https://hey.com/world/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//hey.com/world/%22
-- [ ] Yahoo | https://www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/%22
 - [ ] Apple Developer Forum | https://developer.apple.com/news/?id=n33tv3lm
     - 搜索URL: https://www.google.com/search?q=%22https%3A//developer.apple.com/news/%3Fid%3Dn33tv3lm%22
-- [ ] RSS3 - The Feed of Web3 | https://twitter.com/rss3_/status/1539749435835662336
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//twitter.com/rss3_/status/1539749435835662336%22
 - [ ] Odysee | https://odysee.com/@Odysee:8/odysee-rss:4?r=jPVaXdN5LXrmMYrGQvJzQmrztE4sDnxy
     - 搜索URL: https://www.google.com/search?q=%22https%3A//odysee.com/%40Odysee%3A8/odysee-rss%3A4%3Fr%3DjPVaXdN5LXrmMYrGQvJzQmrztE4sDnxy%22
+- [ ] RSS3 - The Feed of Web3 | https://twitter.com/rss3_/status/1539749435835662336
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//twitter.com/rss3_/status/1539749435835662336%22
+- [ ] GORSS - Go RSS Reader | https://github.com/Lallassu/gorss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Lallassu/gorss%22
 - [ ] The Top 125 RSS Open Source Projects | https://awesomeopensource.com/projects/rss
     - 搜索URL: https://www.google.com/search?q=%22https%3A//awesomeopensource.com/projects/rss%22
-- [ ] RSSeveryday | https://github.com/GuangzheJiang/rss_everyday
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/GuangzheJiang/rss_everyday%22
+- [ ] rssTea | https://github.com/avadhesh18/rssTea
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/avadhesh18/rssTea%22
 - [ ] RSS 工具大全 by 幻璧 | https://blog.wizos.me/20180412-134.html
     - 搜索URL: https://www.google.com/search?q=%22https%3A//blog.wizos.me/20180412-134.html%22
 - [ ] RSS 项目: a WorkFlowy list | https://workflowy.com/#/6e20a3531287
     - 搜索URL: https://www.google.com/search?q=%22https%3A//workflowy.com/%23/6e20a3531287%22
-- [ ] Syndicationd | https://github.com/ymgyt/syndicationd
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/ymgyt/syndicationd%22
+- [ ] RSS指南 | https://efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d%22
 - [ ] Public instances on official page | https://docs.rsshub.app/guide/instances
     - 搜索URL: https://www.google.com/search?q=%22https%3A//docs.rsshub.app/guide/instances%22
 - [ ] Third-party instances within the Follow app | https://app.follow.is/rsshub
     - 搜索URL: https://www.google.com/search?q=%22https%3A//app.follow.is/rsshub%22
-- [ ] RSS指南 | https://efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d%22
-- [ ] Bubo reader | https://github.com/georgemandis/bubo-rss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/georgemandis/bubo-rss%22
 - [ ] osmos::feed | https://github.com/osmoscraft/osmosfeed
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/osmoscraft/osmosfeed%22
-- [ ] Posidon launcher | https://github.com/lposidon/posidonLauncher
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/lposidon/posidonLauncher%22
+- [ ] GARSS | https://github.com/zhaoolee/garss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/zhaoolee/garss%22
+- [ ] RSSeveryday | https://github.com/GuangzheJiang/rss_everyday
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/GuangzheJiang/rss_everyday%22
+- [ ] Bubo reader | https://github.com/georgemandis/bubo-rss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/georgemandis/bubo-rss%22
 - [ ] NotionFeeder | https://github.com/ravgeetdhillon/notion-feeder
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/ravgeetdhillon/notion-feeder%22
-- [ ] sensor.feedparser | https://github.com/custom-components/feedparser
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/custom-components/feedparser%22
 - [ ] Obsidian-RSS | https://github.com/joethei/obsidian-rss
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/joethei/obsidian-rss%22
-- [ ] VSCode-RSS | https://github.com/luyuhuang/vscode-rss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/luyuhuang/vscode-rss%22
+- [ ] sensor.feedparser | https://github.com/custom-components/feedparser
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/custom-components/feedparser%22
+- [ ] Posidon launcher | https://github.com/lposidon/posidonLauncher
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/lposidon/posidonLauncher%22
 - [ ] Feedolin | https://github.com/strukturart/feedolin
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/strukturart/feedolin%22
-- [ ] PlainApp | https://github.com/ismartcoding/plain-app
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/ismartcoding/plain-app%22
 - [ ] NodeRSSbot | https://rssbot.vercel.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rssbot.vercel.app/%22
-- [ ] ttrss-theme-rsshub | https://github.com/DIYgod/ttrss-theme-rsshub
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/DIYgod/ttrss-theme-rsshub%22
+- [ ] VSCode-RSS | https://github.com/luyuhuang/vscode-rss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/luyuhuang/vscode-rss%22
 - [ ] Feed Readers @ Awesome-Selfhosted | https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/awesome-selfhosted/awesome-selfhosted%23feed-readers%22
+- [ ] PlainApp | https://github.com/ismartcoding/plain-app
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/ismartcoding/plain-app%22
+- [ ] ttrss-theme-rsshub | https://github.com/DIYgod/ttrss-theme-rsshub
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/DIYgod/ttrss-theme-rsshub%22
 - [ ] Tiny Tiny RSS Feedlish Theme | https://github.com/Gravemind/tt-rss-feedlish-theme
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Gravemind/tt-rss-feedlish-theme%22
 - [ ] devonthink-heti | https://github.com/sivan/devonthink-heti
@@ -720,6 +720,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//cqp.cc/%22
 - [ ] el-bot | https://docs.bot.elpsy.cn/js/plugins/default.html#rss
     - 搜索URL: https://www.google.com/search?q=%22https%3A//docs.bot.elpsy.cn/js/plugins/default.html%23rss%22
+- [ ] ELF RSS | https://github.com/Quan666/ELF_RSS
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Quan666/ELF_RSS%22
 - [ ] Hamibot | https://hamibot.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//hamibot.com/%22
 - [ ] @newsbot | https://mastodon.social/@newsbot
@@ -808,12 +810,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//openrss.org/%22
 - [ ] Versionfeeds | https://versionfeeds.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//versionfeeds.com/%22
-- [ ] ELF RSS | https://github.com/Quan666/ELF_RSS
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Quan666/ELF_RSS%22
 - [ ] VeRSSion | https://verssion.one/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//verssion.one/%22
-- [ ] Huginn | https://github.com/huginn/huginn
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/huginn/huginn%22
 - [ ] WebRSS | http://www.webrss.com/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//www.webrss.com/%22
 - [ ] Feedity | https://feedity.com/
@@ -834,8 +832,6 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feed-me-up-scotty.vincenttunru.com/%22
 - [ ] Feedfry | https://feedfry.com
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feedfry.com%22
-- [ ] feedpushr | https://github.com/ncarlier/feedpushr
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/ncarlier/feedpushr%22
 - [ ] RSS Please | https://www.wezm.net/v2/posts/2022/generate-rss-from-webpage/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.wezm.net/v2/posts/2022/generate-rss-from-webpage/%22
 - [ ] ChangeDetection | https://lemonade.changedetection.io/start
@@ -856,8 +852,6 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rssweball.top/%22
 - [ ] AI RSS | https://airss.ft07.com
     - 搜索URL: https://www.google.com/search?q=%22https%3A//airss.ft07.com%22
-- [ ] NebulaPicker | https://github.com/djsilva99/nebulapicker
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/djsilva99/nebulapicker%22
 - [ ] Google Alerts | https://www.google.com/alerts
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.google.com/alerts%22
 - [ ] Google News | https://news.google.com/
@@ -872,6 +866,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22http%3A//www.gigaalert.com/%22
 - [ ] Kill the Newsletter! | https://www.kill-the-newsletter.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.kill-the-newsletter.com/%22
+- [ ] Huginn | https://github.com/huginn/huginn
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/huginn/huginn%22
 - [ ] Notifier | https://notifier.in/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//notifier.in/%22
 - [ ] emails2rss | http://emails2rss.appspot.com/
@@ -884,8 +880,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//notifier.in/%22
 - [ ] padlet | https://padlet.com
     - 搜索URL: https://www.google.com/search?q=%22https%3A//padlet.com%22
-- [ ] mkfd | https://github.com/TBosak/mkfd
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/TBosak/mkfd%22
+- [ ] Kanban Tool | https://kanbantool.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//kanbantool.com/%22
 - [ ] MyBoard | https://myboard.co/features/rss-feeds-for-board
     - 搜索URL: https://www.google.com/search?q=%22https%3A//myboard.co/features/rss-feeds-for-board%22
 - [ ] Queryfeed | https://queryfeed.net/
@@ -894,16 +890,16 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22http%3A//twitrss.me/%22
 - [ ] rss.yuji.ne.jp | https://rss.yuji.ne.jp
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.yuji.ne.jp%22
-- [ ] Kanban Tool | https://kanbantool.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//kanbantool.com/%22
+- [ ] nitter | https://nitter.net
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//nitter.net%22
 - [ ] Twiiit | https://twiiit.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//twiiit.com/%22
 - [ ] TwiSSR | http://www.twissr.com/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//www.twissr.com/%22
 - [ ] Typefully Profiles | https://typefully.com/profile
     - 搜索URL: https://www.google.com/search?q=%22https%3A//typefully.com/profile%22
-- [ ] nitter | https://nitter.net
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//nitter.net%22
+- [ ] TweetFeed | http://tweetfeed.org/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//tweetfeed.org/%22
 - [ ] FB-RSS | https://fbrss.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//fbrss.com/%22
 - [ ] gh-feed | http://gh-feed.imsun.net
@@ -914,24 +910,20 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feed-the-star.herokuapp.com/%22
 - [ ] Banditore | https://bandito.re/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//bandito.re/%22
-- [ ] TweetFeed | http://tweetfeed.org/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//tweetfeed.org/%22
 - [ ] TrackAwesomeList | https://www.trackawesomelist.com
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.trackawesomelist.com%22
 - [ ] FetchRSS | http://fetchrss.com/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//fetchrss.com/%22
 - [ ] RSSHub Radar | https://diygod.me/rsshub-radar/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//diygod.me/rsshub-radar/%22
-- [ ] RSS Worker | https://github.com/yllhwa/RSSWorker
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/yllhwa/RSSWorker%22
 - [ ] Notifier | https://notifier.in/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//notifier.in/%22
 - [ ] TelegramRSS | https://tg.i-c-a.su/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//tg.i-c-a.su/%22
 - [ ] Metogram | https://metogram.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//metogram.com/%22
-- [ ] FreshRSS 1.20.0 | https://github.com/FreshRSS/FreshRSS/releases/tag/1.20.0
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/FreshRSS/FreshRSS/releases/tag/1.20.0%22
+- [ ] feedpushr | https://github.com/ncarlier/feedpushr
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/ncarlier/feedpushr%22
 - [ ] 9gag RSS | https://9gagrss.xyz/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//9gagrss.xyz/%22
 - [ ] Realtime RSS feeds for _Hacker News_ | https://hnrss.org
@@ -940,18 +932,20 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//headllines.com/%22
 - [ ] Hacker News Digest | http://hackernews.betacat.io/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//hackernews.betacat.io/%22
+- [ ] Hacker News RSS Feed for Busy People | https://hackernewsrss.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//hackernewsrss.com/%22
 - [ ] Userscript: Export YouTube Subscriptions to RSS OPML | https://greasyfork.org/scripts/418574
     - 搜索URL: https://www.google.com/search?q=%22https%3A//greasyfork.org/scripts/418574%22
 - [ ] RSS-Bridge | https://github.com/RSS-Bridge/rss-bridge/wiki
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/RSS-Bridge/rss-bridge/wiki%22
-- [ ] Hacker News RSS Feed for Busy People | https://hackernewsrss.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//hackernewsrss.com/%22
+- [ ] RSSbot | https://github.com/yindaheng98/RSSBot
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/yindaheng98/RSSBot%22
 - [ ] ~~rss.yt~~ | https://rss.yt/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.yt/%22
 - [ ] Itunes to RSS by PodShows | https://podshows.fr/itunesrss
     - 搜索URL: https://www.google.com/search?q=%22https%3A//podshows.fr/itunesrss%22
-- [ ] RSSbot | https://github.com/yindaheng98/RSSBot
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/yindaheng98/RSSBot%22
+- [ ] GetRSSfeed | http://getrssfeed.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//getrssfeed.com/%22
 - [ ] itunesrss | http://gromnitsky.users.sourceforge.net/js/itunesrss/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//gromnitsky.users.sourceforge.net/js/itunesrss/%22
 - [ ] GetRSSfeed | http://getrssfeed.com/
@@ -962,8 +956,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//tunefeed.app/%22
 - [ ] Filter RSS | https://filterrss.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//filterrss.com/%22
-- [ ] GetRSSfeed | http://getrssfeed.com/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//getrssfeed.com/%22
+- [ ] Twitter Followings OPML Export | https://opml.glitch.me/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//opml.glitch.me/%22
 - [ ] Siftlink | http://siftlinks.com/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//siftlinks.com/%22
 - [ ] TOFEED | https://tofeed.net/
@@ -972,14 +966,14 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.feedsmage.com/%22
 - [ ] RsS iS dEaD LOL | https://rss-is-dead.lol/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss-is-dead.lol/%22
-- [ ] Huginn | https://github.com/huginn/huginn
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/huginn/huginn%22
+- [ ] Hypothesis | https://hypothes.is
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//hypothes.is%22
 - [ ] Notado | https://notado.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//notado.app/%22
 - [ ] Pinboard | http://pinboard.in/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//pinboard.in/%22
-- [ ] Hypothesis | https://hypothes.is
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//hypothes.is%22
+- [ ] Delicious | http://del.icio.us
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//del.icio.us%22
 - [ ] Raindrop | https://raindrop.io
     - 搜索URL: https://www.google.com/search?q=%22https%3A//raindrop.io%22
 - [ ] wallabag | https://wallabag.org/en
@@ -988,10 +982,10 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//linkyrssdemo.inmytree.co.za/%22
 - [ ] Omnivore | https://omnivore.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//omnivore.app/%22
-- [ ] Twitter Followings OPML Export | https://opml.glitch.me/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//opml.glitch.me/%22
-- [ ] RSSerpent | https://github.com/RSSerpent/RSSerpent
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/RSSerpent/RSSerpent%22
+- [ ] LinkAce | https://www.linkace.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.linkace.org/%22
+- [ ] HamsterBase | https://hamsterbase.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//hamsterbase.com/%22
 - [ ] Last.fm RSS Feeds | https://lfm.xiffy.nl/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//lfm.xiffy.nl/%22
 - [ ] Bookfeed.io | https://bookfeed.io/
@@ -1000,72 +994,72 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//crssnt.com/%22
 - [ ] Sheet-posting | https://www.sheet-posting.me/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.sheet-posting.me/%22
-- [ ] Delicious | http://del.icio.us
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//del.icio.us%22
+- [ ] Twitch stream RSS generator | https://twitchrss.appspot.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//twitchrss.appspot.com/%22
 - [ ] TikTok stream RSS generator | https://ttrss.mybluemix.net/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//ttrss.mybluemix.net/%22
 - [ ] ProxiTok | https://proxitok.herokuapp.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//proxitok.herokuapp.com/%22
-- [ ] Twitch stream RSS generator | https://twitchrss.appspot.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//twitchrss.appspot.com/%22
-- [ ] LinkAce | https://www.linkace.org/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.linkace.org/%22
-- [ ] HamsterBase | https://hamsterbase.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//hamsterbase.com/%22
-- [ ] BibiGPT | https://airss.co/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//airss.co/%22
 - [ ] Submirror | http://submirror.xyz
     - 搜索URL: https://www.google.com/search?q=%22http%3A//submirror.xyz%22
-- [ ] 瞅啥 | http://www.gzhshoulu.wang/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//www.gzhshoulu.wang/%22
-- [ ] Mastodon Bookmark RSS | https://bookmark-rss.woodland.cafe/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//bookmark-rss.woodland.cafe/%22
-- [ ] 今天看啥 | http://www.jintiankansha.me/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//www.jintiankansha.me/%22
-- [ ] Weibo to RSS | https://rssfeed.today/weibo/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//rssfeed.today/weibo/%22
-- [ ] RSSHub | https://docs.rsshub.app/new-media.html#wei-xin
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//docs.rsshub.app/new-media.html%23wei-xin%22
 - [ ] Free Monitor Certificate expiry via RSS | https://raphting.dev/posts/monitor-rss/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//raphting.dev/posts/monitor-rss/%22
-- [ ] Vread | https://www.vreadtech.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.vreadtech.com/%22
+- [ ] Mastodon Bookmark RSS | https://bookmark-rss.woodland.cafe/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//bookmark-rss.woodland.cafe/%22
+- [ ] BibiGPT | https://airss.co/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//airss.co/%22
+- [ ] Weibo to RSS | https://rssfeed.today/weibo/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rssfeed.today/weibo/%22
+- [ ] 瞅啥 | http://www.gzhshoulu.wang/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//www.gzhshoulu.wang/%22
 - [ ] WeRSS | https://werss.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//werss.app/%22
+- [ ] 今天看啥 | http://www.jintiankansha.me/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//www.jintiankansha.me/%22
+- [ ] 快知 | http://kzfeed.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//kzfeed.com/%22
+- [ ] RSSHub | https://docs.rsshub.app/new-media.html#wei-xin
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//docs.rsshub.app/new-media.html%23wei-xin%22
+- [ ] Huginn | https://github.com/huginn/huginn
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/huginn/huginn%22
+- [ ] Vread | https://www.vreadtech.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.vreadtech.com/%22
+- [ ] 瓦斯阅读 | https://qnmlgb.tech/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//qnmlgb.tech/%22
+- [ ] RSS订阅源 | https://www.wechatrss.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.wechatrss.com/%22
 - [ ] RSS屋 | https://rss.mifaw.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.mifaw.com/%22
 - [ ] 外接大脑 | https://www.waijiedanao.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.waijiedanao.com/%22
-- [ ] RSS订阅源 | https://www.wechatrss.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.wechatrss.com/%22
+- [ ] WxRss | https://wxrss.vip/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//wxrss.vip/%22
 - [ ] FreeRss | http://www.freerss.top/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//www.freerss.top/%22
 - [ ] feeddd | https://feeddd.org/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feeddd.org/%22
-- [ ] 瓦斯阅读 | https://qnmlgb.tech/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//qnmlgb.tech/%22
-- [ ] 快知 | http://kzfeed.com/
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//kzfeed.com/%22
-- [ ] WxRss | https://wxrss.vip/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//wxrss.vip/%22
-- [ ] rss.lilydjwg.me | https://rss.lilydjwg.me/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.lilydjwg.me/%22
 - [ ] 微信公众号转RSS | https://wechat2rss.xlab.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//wechat2rss.xlab.app/%22
+- [ ] RSSerpent | https://github.com/RSSerpent/RSSerpent
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/RSSerpent/RSSerpent%22
+- [ ] RSS Worker | https://github.com/yllhwa/RSSWorker
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/yllhwa/RSSWorker%22
+- [ ] rss.lilydjwg.me | https://rss.lilydjwg.me/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.lilydjwg.me/%22
 - [ ] rss.lilydjwg.me | https://rss.lilydjwg.me/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.lilydjwg.me/%22
 - [ ] RSSme | http://www.amlpages.com/rssme.shtml
     - 搜索URL: https://www.google.com/search?q=%22http%3A//www.amlpages.com/rssme.shtml%22
-- [ ] ProductHunt daily RSS feed | https://github.com/headllines/producthunt-daily-rss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/headllines/producthunt-daily-rss%22
+- [ ] EchoFeed | https://echofeed.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//echofeed.app/%22
+- [ ] mkfd | https://github.com/TBosak/mkfd
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/TBosak/mkfd%22
 - [ ] RSStoKindle | https://www.rsstokindle.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rsstokindle.com/%22
 - [ ] WhereMyLife | http://wheremylife.cn/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//wheremylife.cn/%22
 - [ ] Reabble | https://reabble.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//reabble.com/%22
-- [ ] EchoFeed | https://echofeed.app/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//echofeed.app/%22
 - [ ] Platypush | https://platypush.readthedocs.io/en/latest/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//platypush.readthedocs.io/en/latest/%22
 - [ ] Kindle4RSS | http://kindle4rss.com/
@@ -1074,20 +1068,22 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//calibre-ebook.com/%22
 - [ ] KOReader | http://koreader.rocks/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//koreader.rocks/%22
-- [ ] mail2rss | https://github.com/lengthmin/mail2rss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/lengthmin/mail2rss%22
+- [ ] Ktool | https://ktool.io/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//ktool.io/%22
 - [ ] SyncReads | https://www.syncreads.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.syncreads.com/%22
 - [ ] Feedsub | https://www.feedsub.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.feedsub.com/%22
 - [ ] ~~RSS-To-Email~~ | https://rss-to-email.portablecto.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss-to-email.portablecto.com/%22
-- [ ] Ktool | https://ktool.io/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//ktool.io/%22
-- [ ] Power Automate | https://flow.microsoft.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//flow.microsoft.com/%22
 - [ ] Feedblitz | https://www.feedblitz.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.feedblitz.com/%22
+- [ ] Power Automate | https://flow.microsoft.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//flow.microsoft.com/%22
+- [ ] FreshRSS 1.20.0 | https://github.com/FreshRSS/FreshRSS/releases/tag/1.20.0
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/FreshRSS/FreshRSS/releases/tag/1.20.0%22
+- [ ] NebulaPicker | https://github.com/djsilva99/nebulapicker
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/djsilva99/nebulapicker%22
 - [ ] a Python script | https://www.sharpgan.com/receive-email-from-solidot-ithome-linuxcn/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.sharpgan.com/receive-email-from-solidot-ithome-linuxcn/%22
 - [ ] Feed2Mail | https://www.feed2mail.com/
@@ -1114,12 +1110,12 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//cortadomail.com/%22
 - [ ] elink | https://elink.io/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//elink.io/%22
-- [ ] tg-archive | https://github.com/knadh/tg-archive
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/knadh/tg-archive%22
-- [ ] mailchimp | https://mailchimp.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//mailchimp.com/%22
 - [ ] Mailbrew | https://mailbrew.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//mailbrew.com/%22
+- [ ] mailchimp | https://mailchimp.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//mailchimp.com/%22
+- [ ] Publicate | https://publicate.it/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//publicate.it/%22
 - [ ] Nourish | https://www.nouri.sh/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.nouri.sh/%22
 - [ ] Feedbutler | https://feedbutler.app/en/
@@ -1146,8 +1142,6 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.lightfeed.app/%22
 - [ ] TidyRead | https://tidyread.ai/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//tidyread.ai/%22
-- [ ] Publicate | https://publicate.it/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//publicate.it/%22
 - [ ] socialdog | https://social-dog.net/en/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//social-dog.net/en/%22
 - [ ] Feedio | https://feedio.co
@@ -1160,18 +1154,24 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.syncreads.com/%22
 - [ ] dlvr.it | https://dlvrit.com
     - 搜索URL: https://www.google.com/search?q=%22https%3A//dlvrit.com%22
+- [ ] mail2rss | https://github.com/lengthmin/mail2rss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/lengthmin/mail2rss%22
+- [ ] ProductHunt daily RSS feed | https://github.com/headllines/producthunt-daily-rss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/headllines/producthunt-daily-rss%22
+- [ ] tg-archive | https://github.com/knadh/tg-archive
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/knadh/tg-archive%22
 - [ ] YouTube RSS Finder | https://github.com/teddy-gustiaux/youtube-rss-finder
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/teddy-gustiaux/youtube-rss-finder%22
 - [ ] Huginn | https://github.com/huginn/huginn
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/huginn/huginn%22
-- [ ] WeWe RSS | https://github.com/cooderl/wewe-rss/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/cooderl/wewe-rss/%22
+- [ ] Liuli | https://github.com/liuli-io/liuli
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/liuli-io/liuli%22
 - [ ] Feedly action for Google Assistant | https://blog.feedly.com/hey-google-talk-to-feedly/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//blog.feedly.com/hey-google-talk-to-feedly/%22
 - [ ] Narro | https://www.narro.co/rss-feeds
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.narro.co/rss-feeds%22
-- [ ] rss2mail | https://github.com/skx/rss2email
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/skx/rss2email%22
+- [ ] WeWe RSS | https://github.com/cooderl/wewe-rss/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/cooderl/wewe-rss/%22
 - [ ] Pluma RSS Reader | https://www.reddit.com/r/androidapps/comments/ic0fqi/pluma_rss_reader/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/androidapps/comments/ic0fqi/pluma_rss_reader/%22
 - [ ] Call Annie | https://callannie.ai/
@@ -1184,8 +1184,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//themeisle.com/plugins/feedzy-rss-feeds/%22
 - [ ] RSSGROUND | https://www.rssground.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rssground.com/%22
-- [ ] Liuli | https://github.com/liuli-io/liuli
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/liuli-io/liuli%22
+- [ ] elink | https://elink.io/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//elink.io/%22
 - [ ] Feedspot | https://www.feedspot.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.feedspot.com/%22
 - [ ] MOONMOON | https://moonmoon.org/
@@ -1194,8 +1194,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.tintup.com/blog/the-best-rss-widget/%22
 - [ ] CommonNinja | https://www.commoninja.com/plugins/feeds
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.commoninja.com/plugins/feeds%22
-- [ ] elink | https://elink.io/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//elink.io/%22
+- [ ] Kindle Ear | https://github.com/cdhigh/KindleEar
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/cdhigh/KindleEar%22
 - [ ] RSS DOG | https://www.rssdog.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rssdog.com/%22
 - [ ] WP RSS Aggregator | https://wordpress.org/plugins/wp-rss-aggregator/
@@ -1204,22 +1204,22 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.aakashweb.com/wordpress-plugins/super-rss-reader/%22
 - [ ] tagembed | https://tagembed.com/rss-widget/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//tagembed.com/rss-widget/%22
-- [ ] py-feedr | https://github.com/M157q/py-feedr
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/M157q/py-feedr%22
 - [ ] Reabble for Android | https://github.com/zmk-ink/reabble-android
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/zmk-ink/reabble-android%22
-- [ ] Here | https://here.app/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//here.app/%22
 - [ ] InforBar | http://mitec.cz/infobar.html
     - 搜索URL: https://www.google.com/search?q=%22http%3A//mitec.cz/infobar.html%22
-- [ ] Kindle Ear | https://github.com/cdhigh/KindleEar
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/cdhigh/KindleEar%22
+- [ ] Here | https://here.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//here.app/%22
+- [ ] rss-email | https://github.com/derekchuank/rss-email
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/derekchuank/rss-email%22
+- [ ] Tickr | https://www.open-tickr.net/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.open-tickr.net/%22
 - [ ] Desktop Ticker | http://www.battware.co.uk/desktopticker.htm
     - 搜索URL: https://www.google.com/search?q=%22http%3A//www.battware.co.uk/desktopticker.htm%22
 - [ ] FeedsBar | https://feeds.bar
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feeds.bar%22
-- [ ] Tickr | https://www.open-tickr.net/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.open-tickr.net/%22
+- [ ] rss2mail | https://github.com/skx/rss2email
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/skx/rss2email%22
 - [ ] Renewed Tab | https://renewedtab.com/en/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//renewedtab.com/en/%22
 - [ ] Tabhub.app | https://www.tabhub.app/
@@ -1230,14 +1230,16 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//easysignage.com/%22
 - [ ] ArchiveBox | https://archivebox.io/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//archivebox.io/%22
-- [ ] rss-email | https://github.com/derekchuank/rss-email
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/derekchuank/rss-email%22
+- [ ] py-feedr | https://github.com/M157q/py-feedr
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/M157q/py-feedr%22
+- [ ] Newspopper | https://github.com/rzkmak/newspopper
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/rzkmak/newspopper%22
 - [ ] RSS Librarian | https://www.rsslibrarian.ch/librarian.php
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rsslibrarian.ch/librarian.php%22
 - [ ] EchoFeed | https://echofeed.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//echofeed.app/%22
-- [ ] RSS to ActivityPub Converter | https://github.com/dariusk/rss-to-activitypub
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/dariusk/rss-to-activitypub%22
+- [ ] Rui | https://github.com/rzkmak/rui
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/rzkmak/rui%22
 - [ ] Mirror.bot | https://mirror.bot/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//mirror.bot/%22
 - [ ] MonitoRSS | https://MonitoRSS.xyz
@@ -1254,8 +1256,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//pushalert.co/blog/introducing-automated-rss-push-and-newsletter-push-notifications/%22
 - [ ] PushEngage | https://blog.pushengage.com/fully-automate-your-browser-push-campaigns-with-wordpress-or-rss-feed/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//blog.pushengage.com/fully-automate-your-browser-push-campaigns-with-wordpress-or-rss-feed/%22
-- [ ] Newspopper | https://github.com/rzkmak/newspopper
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/rzkmak/newspopper%22
+- [ ] RSS to ActivityPub Converter | https://github.com/dariusk/rss-to-activitypub
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/dariusk/rss-to-activitypub%22
 - [ ] INK RSS | https://channel.1nk.workers.dev/channel
     - 搜索URL: https://www.google.com/search?q=%22https%3A//channel.1nk.workers.dev/channel%22
 - [ ] Check酱 | https://gitee.com/easychen/checkchan-dist
@@ -1268,22 +1270,22 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//yougeng.xin/%22
 - [ ] 网页更新提醒 | https://courier.toptopn.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//courier.toptopn.com/%22
-- [ ] I Am Watching You | https://www.logicjake.xyz/WebMonitor/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.logicjake.xyz/WebMonitor/%22
+- [ ] FeedMe | https://github.com/seazon/FeedMe/blob/master/README.md
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/seazon/FeedMe/blob/master/README.md%22
 - [ ] PressForward | https://pressforward.org/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//pressforward.org/%22
 - [ ] CyberSEO | https://www.cyberseo.net/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.cyberseo.net/%22
-- [ ] Weavr Boards | https://weavr.ai/blogs/Knowledge-curation-and-sharing-made-easy-through-Weavr-Boards-and-RSS-Feeds
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//weavr.ai/blogs/Knowledge-curation-and-sharing-made-easy-through-Weavr-Boards-and-RSS-Feeds%22
+- [ ] I Am Watching You | https://www.logicjake.xyz/WebMonitor/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.logicjake.xyz/WebMonitor/%22
 - [ ] SnipRSS | https://sniprss.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//sniprss.com/%22
-- [ ] Curated | https://withcurated.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//withcurated.com/%22
+- [ ] Weavr Boards | https://weavr.ai/blogs/Knowledge-curation-and-sharing-made-easy-through-Weavr-Boards-and-RSS-Feeds
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//weavr.ai/blogs/Knowledge-curation-and-sharing-made-easy-through-Weavr-Boards-and-RSS-Feeds%22
 - [ ] EpubKit | https://epubkit.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//epubkit.app/%22
-- [ ] FeedMe | https://github.com/seazon/FeedMe/blob/master/README.md
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/seazon/FeedMe/blob/master/README.md%22
+- [ ] Curated | https://withcurated.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//withcurated.com/%22
 - [ ] Mastofeed | https://mastofeed.org/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//mastofeed.org/%22
 - [ ] feedsin.space | https://feedsin.space/
@@ -1302,10 +1304,6 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//pod-genie.com/%22
 - [ ] atomstr | https://git.sr.ht/~psic4t/atomstr
     - 搜索URL: https://www.google.com/search?q=%22https%3A//git.sr.ht/~psic4t/atomstr%22
-- [ ] Rui | https://github.com/rzkmak/rui
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/rzkmak/rui%22
-- [ ] Karakeep | https://github.com/karakeep-app/karakeep
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/karakeep-app/karakeep%22
 - [ ] RSS Gizmos | https://rssgizmos.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rssgizmos.com/%22
 - [ ] feedless | https://feedless.org/getting-started
@@ -1336,8 +1334,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//pipfeed.com/news-extract-api/%22
 - [ ] 简悦 | http://ksria.com/simpread/docs/#/RSSReader
     - 搜索URL: https://www.google.com/search?q=%22http%3A//ksria.com/simpread/docs/%23/RSSReader%22
-- [ ] Epiboard | https://github.com/Alexays/Epiboard
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Alexays/Epiboard%22
+- [ ] Tumblr RSS feed with original-size image | https://blog.wizos.me/20180412-139.html
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//blog.wizos.me/20180412-139.html%22
 - [ ] Feedburner | https://feedburner.google.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feedburner.google.com/%22
 - [ ] FeedPress | https://feed.press/
@@ -1348,8 +1346,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feedio.co%22
 - [ ] Follow.it | https://follow.it/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//follow.it/%22
-- [ ] Django link archive | https://github.com/rumca-js/Django-link-archive
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/rumca-js/Django-link-archive%22
+- [ ] MailPoet | https://www.mailpoet.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.mailpoet.com/%22
 - [ ] Feedzy RSS Feeds for WordPress | https://themeisle.com/plugins/feedzy-rss-feeds/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//themeisle.com/plugins/feedzy-rss-feeds/%22
 - [ ] Ultimate Category Excluder | https://wordpress.org/plugins/ultimate-category-excluder/
@@ -1360,14 +1358,14 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//siftrss.com/%22
 - [ ] RSSFilter | https://rssfilter.netlify.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rssfilter.netlify.app/%22
-- [ ] Tumblr RSS feed with original-size image | https://blog.wizos.me/20180412-139.html
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//blog.wizos.me/20180412-139.html%22
+- [ ] grepfeed | https://grepfeed.sigwait.tk/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//grepfeed.sigwait.tk/%22
 - [ ] Feed Control | https://feedcontrol.fivefilters.org/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feedcontrol.fivefilters.org/%22
 - [ ] RSS Generator | https://synk.info/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//synk.info/%22
-- [ ] MailPoet | https://www.mailpoet.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.mailpoet.com/%22
+- [ ] RSSHub with RSS-Parser | https://telegra.ph/Use-reverse-proxy-to-filter-source-feed-contents-07-01
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//telegra.ph/Use-reverse-proxy-to-filter-source-feed-contents-07-01%22
 - [ ] Feed Filter Maker | https://feed.janicek.co/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feed.janicek.co/%22
 - [ ] rss-lambda | https://rss-lambda.ktachibana.party/
@@ -1382,22 +1380,22 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.feedspot.com/rsscombiner/%22
 - [ ] RSSUnify | https://feederss.com/index.html
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feederss.com/index.html%22
-- [ ] RSSHub with RSS-Parser | https://telegra.ph/Use-reverse-proxy-to-filter-source-feed-contents-07-01
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//telegra.ph/Use-reverse-proxy-to-filter-source-feed-contents-07-01%22
 - [ ] mior | http://mior.ericfu.me/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//mior.ericfu.me/%22
-- [ ] a Google Script | https://www.labnol.org/internet/google-translate-rss-feeds/5110/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.labnol.org/internet/google-translate-rss-feeds/5110/%22
-- [ ] grepfeed | https://grepfeed.sigwait.tk/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//grepfeed.sigwait.tk/%22
-- [ ] Use Google Sheet translate RSS item content | https://twitter.com/LorandBodo/status/1414887449189396510
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//twitter.com/LorandBodo/status/1414887449189396510%22
 - [ ] Feed Filter Maker | https://feed.janicek.co/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feed.janicek.co/%22
+- [ ] a Google Script | https://www.labnol.org/internet/google-translate-rss-feeds/5110/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.labnol.org/internet/google-translate-rss-feeds/5110/%22
+- [ ] Use Google Sheet translate RSS item content | https://twitter.com/LorandBodo/status/1414887449189396510
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//twitter.com/LorandBodo/status/1414887449189396510%22
+- [ ] Karakeep | https://github.com/karakeep-app/karakeep
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/karakeep-app/karakeep%22
 - [ ] RSSBox | https://rssbox.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rssbox.app/%22
 - [ ] RSS style with XSL | https://lepture.com/en/2019/rss-style-with-xsl
     - 搜索URL: https://www.google.com/search?q=%22https%3A//lepture.com/en/2019/rss-style-with-xsl%22
+- [ ] Epiboard | https://github.com/Alexays/Epiboard
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Alexays/Epiboard%22
 - [ ] RSS.Style | https://www.rss.style/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rss.style/%22
 - [ ] StreamBurner | https://git.xmpp-it.net/sch/StreamBurner/src/branch/main/xsl
@@ -1420,10 +1418,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.diva.so/demo%22
 - [ ] RSSPath | http://www.rsspath.com/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//www.rsspath.com/%22
-- [ ] Blog post workflow | https://github.com/marketplace/actions/blog-post-workflow
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/marketplace/actions/blog-post-workflow%22
-- [ ] RSSPush | https://github.com/easychen/rsspush
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/easychen/rsspush%22
+- [ ] Django link archive | https://github.com/rumca-js/Django-link-archive
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/rumca-js/Django-link-archive%22
 - [ ] RSSHub Radar | https://diygod.me/rsshub-radar/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//diygod.me/rsshub-radar/%22
 - [ ] Easy to RSS | https://idealclover.top/projects.html
@@ -1436,24 +1432,28 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd%22
 - [ ] RSS button for Safari | https://rss-extension.bitpiston.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss-extension.bitpiston.com/%22
-- [ ] nostrss | https://github.com/Asone/nostrss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Asone/nostrss%22
+- [ ] Blog post workflow | https://github.com/marketplace/actions/blog-post-workflow
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/marketplace/actions/blog-post-workflow%22
 - [ ] Feedbro | https://nodetics.com/feedbro/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//nodetics.com/feedbro/%22
-- [ ] rsslay | https://github.com/piraces/rsslay
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/piraces/rsslay%22
 - [ ] Feed Hawk | https://www.goldenhillsoftware.com/feed-hawk/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.goldenhillsoftware.com/feed-hawk/%22
+- [ ] nostrss | https://github.com/Asone/nostrss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Asone/nostrss%22
 - [ ] Inoreader browser extension | https://www.inoreader.com/blog/2020/08/inoreaders-browser-extension-got-a-big-update-today.html
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.inoreader.com/blog/2020/08/inoreaders-browser-extension-got-a-big-update-today.html%22
-- [ ] RSSBrew | https://github.com/yinan-c/RSSBrew
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/yinan-c/RSSBrew%22
+- [ ] RSSPush | https://github.com/easychen/rsspush
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/easychen/rsspush%22
+- [ ] rsslay | https://github.com/piraces/rsslay
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/piraces/rsslay%22
 - [ ] RSS Finder | https://rss-finder-web-app.vercel.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss-finder-web-app.vercel.app/%22
 - [ ] Another RSS Finder | https://rss-finder.rook1e.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss-finder.rook1e.com/%22
 - [ ] Thirdplace Discovery | https://discovery.thirdplace.no/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//discovery.thirdplace.no/%22
+- [ ] RSS+Atom Feed Subscribe Button Generator | https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator%22
 - [ ] FeedReader App | https://feedreader.xyz/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feedreader.xyz/%22
 - [ ] RSS feed ASAP | https://rssfeedasap.com/
@@ -1474,16 +1474,16 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.lilydjwg.me/%22
 - [ ] Subscribe V2EX post comments | https://rss.lilydjwg.me/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.lilydjwg.me/%22
-- [ ] RSS+Atom Feed Subscribe Button Generator | https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator%22
+- [ ] RSS API | https://rssapi.net/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rssapi.net/%22
 - [ ] Feedspot API | https://www.feedspot.com/fs/apireadme
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.feedspot.com/fs/apireadme%22
 - [ ] Feedsearch | https://feedsearch.dev/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feedsearch.dev/%22
 - [ ] Substats | https://api.spencerwoo.com/substats/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//api.spencerwoo.com/substats/%22
-- [ ] RSS API | https://rssapi.net/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//rssapi.net/%22
+- [ ] RSS-Translation | https://tjsky.github.io/RSS-Translation/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//tjsky.github.io/RSS-Translation/%22
 - [ ] FetchRSS API | https://fetchrss.com/api
     - 搜索URL: https://www.google.com/search?q=%22https%3A//fetchrss.com/api%22
 - [ ] Fever API | https://feedafever.com/api
@@ -1502,36 +1502,32 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//searq.org/%22
 - [ ] RSS Emit | https://rssemit.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rssemit.com/%22
-- [ ] pretty-feed-v3 | https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl%22
 - [ ] SimplePie | https://simplepie.org/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//simplepie.org/%22
-- [ ] EndofYear | https://github.com/7Wate/EndOfYear
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/7Wate/EndOfYear%22
+- [ ] RSS Gen | https://doc.rssgen.co/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//doc.rssgen.co/%22
 - [ ] OPML Checklist | http://this.how/opmlChecklist/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//this.how/opmlChecklist/%22
 - [ ] FeedLand | http://docs.feedland.org/firstThings.opml
     - 搜索URL: https://www.google.com/search?q=%22http%3A//docs.feedland.org/firstThings.opml%22
-- [ ] RSS Gen | https://doc.rssgen.co/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//doc.rssgen.co/%22
-- [ ] Awesome RSS | https://github.com/shgysk8zer0/awesome-rss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/shgysk8zer0/awesome-rss%22
 - [ ] Feed Curator | https://vincode.io/feed-curator/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//vincode.io/feed-curator/%22
+- [ ] RSSBrew | https://github.com/yinan-c/RSSBrew
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/yinan-c/RSSBrew%22
 - [ ] OPML generator | https://opml-gen.ovh/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//opml-gen.ovh/%22
-- [ ] Want My RSS | https://github.com/Reeywhaar/want-my-rss
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Reeywhaar/want-my-rss%22
+- [ ] OPML-compatible apps list | http://opml.org/compatibleApps.opml
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//opml.org/compatibleApps.opml%22
 - [ ] Little Outliner | http://littleoutliner.com/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//littleoutliner.com/%22
-- [ ] Get RSS Feed URL | https://github.com/shevabam/get-rss-feed-url-extension
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/shevabam/get-rss-feed-url-extension%22
+- [ ] opml-editor | https://opml.imadij.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//opml.imadij.com/%22
 - [ ] 上下闻 | https://news.mindynode.com/en/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//news.mindynode.com/en/%22
 - [ ] Unofficial Reuters RSS Feed | https://www.fivefilters.org/2021/reuters-rss-feeds/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.fivefilters.org/2021/reuters-rss-feeds/%22
-- [ ] opml-editor | https://opml.imadij.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//opml.imadij.com/%22
+- [ ] pretty-feed-v3 | https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl%22
 - [ ] KOTOMI RSS | https://moe4sale.in/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//moe4sale.in/%22
 - [ ] MusicButler | https://www.musicbutler.io/
@@ -1542,42 +1538,46 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.makeuseof.com/tag/4-rss-feeds-for-the-movies-addict/%22
 - [ ] Comics RSS | https://www.comicsrss.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.comicsrss.com/%22
-- [ ] OPML-compatible apps list | http://opml.org/compatibleApps.opml
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//opml.org/compatibleApps.opml%22
-- [ ] RSSPreview | https://github.com/aureliendavid/rsspreview
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/aureliendavid/rsspreview%22
-- [ ] RSSBud | https://github.com/Cay-Zhang/RSSBud
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Cay-Zhang/RSSBud%22
-- [ ] 远程工作职位的 rss 聚合 | http://dynamic.yuanjingtech.com/rss/remote-work-jobs.xml
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//dynamic.yuanjingtech.com/rss/remote-work-jobs.xml%22
 - [ ] 蜜柑计划 - Mikan Project | https://mikanani.me/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//mikanani.me/%22
 - [ ] SHOWRSS: for Broadcatching | https://showrss.info/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//showrss.info/%22
+- [ ] EndofYear | https://github.com/7Wate/EndOfYear
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/7Wate/EndOfYear%22
 - [ ] RSS-GPT | https://github.com/yinan-c/RSS-GPT
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/yinan-c/RSS-GPT%22
+- [ ] 远程工作职位的 rss 聚合 | http://dynamic.yuanjingtech.com/rss/remote-work-jobs.xml
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//dynamic.yuanjingtech.com/rss/remote-work-jobs.xml%22
+- [ ] Awesome RSS | https://github.com/shgysk8zer0/awesome-rss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/shgysk8zer0/awesome-rss%22
+- [ ] Want My RSS | https://github.com/Reeywhaar/want-my-rss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Reeywhaar/want-my-rss%22
+- [ ] RSSPreview | https://github.com/aureliendavid/rsspreview
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/aureliendavid/rsspreview%22
 - [ ] favorite link | https://www.guanguans.cn/favorite-link/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.guanguans.cn/favorite-link/%22
-- [ ] RSSAid | https://github.com/lt94/RSSAid/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/lt94/RSSAid/%22
+- [ ] RSSBud | https://github.com/Cay-Zhang/RSSBud
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Cay-Zhang/RSSBud%22
 - [ ] 软件开发相关RSS源推荐 | https://blog.liyaodong.com/posts/rss-list-for-software-development/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//blog.liyaodong.com/posts/rss-list-for-software-development/%22
-- [ ] RSS-Translation | https://tjsky.github.io/RSS-Translation/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//tjsky.github.io/RSS-Translation/%22
+- [ ] f43.me | https://f43.me/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//f43.me/%22
 - [ ] ReadRUST | https://ReadRust.net
     - 搜索URL: https://www.google.com/search?q=%22https%3A//ReadRust.net%22
 - [ ] Techblast | http://techblast.scripting.com/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//techblast.scripting.com/%22
 - [ ] Front-End RSS | https://front-end-rss.now.sh/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//front-end-rss.now.sh/%22
-- [ ] f43.me | https://f43.me/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//f43.me/%22
+- [ ] RSSAid | https://github.com/lt94/RSSAid/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/lt94/RSSAid/%22
 - [ ] Artificial Intelligence RSS Feeds on the Web | https://www.artificial-intelligence.blog/rss-feeds/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.artificial-intelligence.blog/rss-feeds/%22
+- [ ] feedi | https://github.com/davidesantangelo/feedi
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/davidesantangelo/feedi%22
 - [ ] Feed picker for Microsoft products | https://support.microsoft.com/en-us/rss-feed-picker
     - 搜索URL: https://www.google.com/search?q=%22https%3A//support.microsoft.com/en-us/rss-feed-picker%22
-- [ ] SyndiKit | https://github.com/brightdigit/SyndiKit
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/brightdigit/SyndiKit%22
+- [ ] Get RSS Feed URL | https://github.com/shevabam/get-rss-feed-url-extension
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/shevabam/get-rss-feed-url-extension%22
 - [ ] Information Security News | https://attachments.convertkitcdnn2.com/446246/c3c56058-be1f-4967-9fae-f21b2b563020/security-news.opml
     - 搜索URL: https://www.google.com/search?q=%22https%3A//attachments.convertkitcdnn2.com/446246/c3c56058-be1f-4967-9fae-f21b2b563020/security-news.opml%22
 - [ ] The iOS Dev Directory | https://iosdevdirectory.com/
@@ -1586,22 +1586,22 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feed.indiehackers.world/%22
 - [ ] Mac iOS Tech Blogs By Women | https://inessential.com/2015/11/16/blogs_by_women
     - 搜索URL: https://www.google.com/search?q=%22https%3A//inessential.com/2015/11/16/blogs_by_women%22
-- [ ] feedi | https://github.com/davidesantangelo/feedi
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/davidesantangelo/feedi%22
 - [ ] Tech Blogs shared by Emacs China Forum users | https://emacs-china.org/t/elfeed-tech-feeds-rss/17680
     - 搜索URL: https://www.google.com/search?q=%22https%3A//emacs-china.org/t/elfeed-tech-feeds-rss/17680%22
+- [ ] SyndiKit | https://github.com/brightdigit/SyndiKit
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/brightdigit/SyndiKit%22
 - [ ] ~~Refined Blog~~ | https://refined.blog/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//refined.blog/%22
 - [ ] ChainFeeds | https://www.chainfeeds.xyz/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.chainfeeds.xyz/%22
 - [ ] 【925】位优质Mirror作者的Feed地址 | https://twitter.com/zlexdl/status/1502629374889144323
     - 搜索URL: https://www.google.com/search?q=%22https%3A//twitter.com/zlexdl/status/1502629374889144323%22
-- [ ] Crawler-Buddy | https://github.com/rumca-js/crawler-buddy
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/rumca-js/crawler-buddy%22
-- [ ] Bitcoin RSS Feeds | https://bc1984.com/bitcoin-rss-feeds/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//bc1984.com/bitcoin-rss-feeds/%22
 - [ ] RSS-OPML-to-Markdown | https://github.com/idealclover/RSS-OPML-to-Markdown
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/idealclover/RSS-OPML-to-Markdown%22
+- [ ] Bitcoin RSS Feeds | https://bc1984.com/bitcoin-rss-feeds/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//bc1984.com/bitcoin-rss-feeds/%22
+- [ ] Crawler-Buddy | https://github.com/rumca-js/crawler-buddy
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/rumca-js/crawler-buddy%22
 - [ ] rss-源共享 | https://trello.com/b/lvMGhlNB/%F0%9F%8E%89rss-%E6%BA%90%E5%85%B1%E4%BA%AB
     - 搜索URL: https://www.google.com/search?q=%22https%3A//trello.com/b/lvMGhlNB/%25F0%259F%258E%2589rss-%25E6%25BA%2590%25E5%2585%25B1%25E4%25BA%25AB%22
 - [ ] 「一天世界」推荐的RSS订阅列表 | https://blog.yitianshijie.net/2019/12/10/rss-feeds-recommendation/
@@ -1610,24 +1610,22 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//vincode.io/feed-compass/%22
 - [ ] RSS Source | 充实你的 RSS 订阅源 | https://rss-source.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss-source.com/%22
-- [ ] 品葱精选 | https://github.com/Project-Gutenberg/Pincong
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Project-Gutenberg/Pincong%22
-- [ ] Chinese Security RSS | https://github.com/zhengjim/Chinese-Security-RSS/blob/master/README.md
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/zhengjim/Chinese-Security-RSS/blob/master/README.md%22
 - [ ] Reabble.cn 推荐的热门订阅源 | https://reabble.cn/help
     - 搜索URL: https://www.google.com/search?q=%22https%3A//reabble.cn/help%22
+- [ ] theChenWen 整理的 4 份 OPML | https://twitter.com/theChenWen/status/1296256174837215234
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//twitter.com/theChenWen/status/1296256174837215234%22
+- [ ] Awesome-newsCN-feeds | https://github.com/RSS-Renaissance/awesome-newsCN-feeds
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/RSS-Renaissance/awesome-newsCN-feeds%22
 - [ ] 「A君私藏的超好用 RSS 订阅源」 by 爱范儿 | https://shimo.im/docs/iwRFK7VNmZIxnuL7/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//shimo.im/docs/iwRFK7VNmZIxnuL7/%22
 - [ ] Popular RSS Feeds by RSS.com | https://rss.com/blog/popular-rss-feeds/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.com/blog/popular-rss-feeds/%22
 - [ ] The Signal 500 | https://feeds.bar/signal-500/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feeds.bar/signal-500/%22
-- [ ] theChenWen 整理的 4 份 OPML | https://twitter.com/theChenWen/status/1296256174837215234
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//twitter.com/theChenWen/status/1296256174837215234%22
-- [ ] RSS Maker | https://rss.mk/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.mk/%22
 - [ ] RSS-OPML-to-Markdown enhancement | https://github.com/AboutRSS/RSS-OPML-to-Markdown/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/AboutRSS/RSS-OPML-to-Markdown/%22
+- [ ] RSS Maker | https://rss.mk/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.mk/%22
 - [ ] Single Feed Sharing on Twitter | https://twitter.com/aboutRSS/timelines/1527857429467172864
     - 搜索URL: https://www.google.com/search?q=%22https%3A//twitter.com/aboutRSS/timelines/1527857429467172864%22
 - [ ] RSS Feed Bundles Sharing on Twitter | https://twitter.com/aboutRSS/timelines/1527674304921362432
@@ -1636,10 +1634,10 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.buzzing.cc/%22
 - [ ] MoreRSS | https://morerss.com/index.php
     - 搜索URL: https://www.google.com/search?q=%22https%3A//morerss.com/index.php%22
-- [ ] RSS-IT人 | https://github.com/Gracker/Rss-IT
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Gracker/Rss-IT%22
-- [ ] Awesome-newsCN-feeds | https://github.com/RSS-Renaissance/awesome-newsCN-feeds
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/RSS-Renaissance/awesome-newsCN-feeds%22
+- [ ] 品葱精选 | https://github.com/Project-Gutenberg/Pincong
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Project-Gutenberg/Pincong%22
+- [ ] Chinese Security RSS | https://github.com/zhengjim/Chinese-Security-RSS/blob/master/README.md
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/zhengjim/Chinese-Security-RSS/blob/master/README.md%22
 - [ ] CyberSecurityRSS | https://github.com/zer0yu/CyberSecurityRSS
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/zer0yu/CyberSecurityRSS%22
 - [ ] BlogHub | https://bloghub.fun/
@@ -1666,32 +1664,34 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//daverupert.com/rss-club/%22
 - [ ] RSSBlog | https://rssblog.cn/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rssblog.cn/%22
-- [ ] Mataroa Collection | https://collection.mataroa.blog/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//collection.mataroa.blog/%22
 - [ ] Awesome ML/AI RSS feed | https://github.com/vishalshar/awesome_ML_AI_RSS_feed
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/vishalshar/awesome_ML_AI_RSS_feed%22
+- [ ] Mataroa Collection | https://collection.mataroa.blog/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//collection.mataroa.blog/%22
+- [ ] RSS-IT人 | https://github.com/Gracker/Rss-IT
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/Gracker/Rss-IT%22
 - [ ] ooh! directory | https://ooh.directory/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//ooh.directory/%22
 - [ ] 积薪 | https://firewood.news/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//firewood.news/%22
 - [ ] Blog of the .Day | https://blogofthe.day/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//blogofthe.day/%22
-- [ ] Awesome-techCN-feeds | https://github.com/RSS-Renaissance/awesome-techCN-feeds
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/RSS-Renaissance/awesome-techCN-feeds%22
+- [ ] Software Engineering Blogs | https://github.com/kilimchoi/engineering-blogs/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/kilimchoi/engineering-blogs/%22
 - [ ] Ghost | https://ghost.org/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//ghost.org/%22
 - [ ] pu-blog | https://py-blog.zcmimi.top/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//py-blog.zcmimi.top/%22
-- [ ] OPML of D介子 | https://github.com/JoJo720/JoJo720/blob/master/assets/rss/D介子.opml
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/JoJo720/JoJo720/blob/master/assets/rss/D%E4%BB%8B%E5%AD%90.opml%22
+- [ ] A collection of over 900 RSS feeds for web developers, updated monthly | https://github.com/simevidas/web-dev-feeds
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/simevidas/web-dev-feeds%22
 - [ ] Solo / Pipe at B3log | https://b3log.org/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//b3log.org/%22
 - [ ] Halo | https://b3log.org/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//b3log.org/%22
 - [ ] Gridea | https://gridea.dev
     - 搜索URL: https://www.google.com/search?q=%22https%3A//gridea.dev%22
-- [ ] Software Engineering Blogs | https://github.com/kilimchoi/engineering-blogs/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/kilimchoi/engineering-blogs/%22
+- [ ] PrimitivesFeed | https://github.com/PrimitivesLane/PrimitivesFeed
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/PrimitivesLane/PrimitivesFeed%22
 - [ ] Gatsby | https://www.gatsbyjs.com/docs/how-to/adding-common-features/adding-an-rss-feed/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.gatsbyjs.com/docs/how-to/adding-common-features/adding-an-rss-feed/%22
 - [ ] Typefully Profiles | https://typefully.com/profile
@@ -1700,24 +1700,24 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//montaigne.io%22
 - [ ] Hey World | https://hey.com/world/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//hey.com/world/%22
-- [ ] A collection of over 900 RSS feeds for web developers, updated monthly | https://github.com/simevidas/web-dev-feeds
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/simevidas/web-dev-feeds%22
-- [ ] Bear | https://bearblog.dev/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//bearblog.dev/%22
 - [ ] lists.sh | https://lists.sh
     - 搜索URL: https://www.google.com/search?q=%22https%3A//lists.sh%22
+- [ ] Bear | https://bearblog.dev/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//bearblog.dev/%22
 - [ ] Listed | https://listed.to
     - 搜索URL: https://www.google.com/search?q=%22https%3A//listed.to%22
 - [ ] Hashnode | https://hashnode.com
     - 搜索URL: https://www.google.com/search?q=%22https%3A//hashnode.com%22
 - [ ] xLog | https://xlog.app
     - 搜索URL: https://www.google.com/search?q=%22https%3A//xlog.app%22
-- [ ] microblogpub | https://microblog.pub/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//microblog.pub/%22
 - [ ] microfeed | https://www.microfeed.org/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.microfeed.org/%22
-- [ ] PrimitivesFeed | https://github.com/PrimitivesLane/PrimitivesFeed
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/PrimitivesLane/PrimitivesFeed%22
+- [ ] microblogpub | https://microblog.pub/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//microblog.pub/%22
+- [ ] OPML of D介子 | https://github.com/JoJo720/JoJo720/blob/master/assets/rss/D介子.opml
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/JoJo720/JoJo720/blob/master/assets/rss/D%E4%BB%8B%E5%AD%90.opml%22
+- [ ] Awesome-techCN-feeds | https://github.com/RSS-Renaissance/awesome-techCN-feeds
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/RSS-Renaissance/awesome-techCN-feeds%22
 - [ ] RSS & you-get | https://left.pink/archives/2712
     - 搜索URL: https://www.google.com/search?q=%22https%3A//left.pink/archives/2712%22
 - [ ] FLEXGET | https://flexget.com/
@@ -1726,12 +1726,12 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//giorgiocalderolla.com/catch.html%22
 - [ ] Radarr | https://radarr.video/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//radarr.video/%22
+- [ ] Sonarr | https://sonarr.tv/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//sonarr.tv/%22
 - [ ] Awesome RSS Feeds | https://github.com/spians/awesome-rss-feeds
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/spians/awesome-rss-feeds%22
-- [ ] Awesome RSSHub Routes | https://github.com/JackyST0/awesome-rsshub-routes
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/JackyST0/awesome-rsshub-routes%22
-- [ ] 中文独立博客列表 | https://github.com/timqian/chinese-independent-blogs
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/timqian/chinese-independent-blogs%22
+- [ ] qBittorrent | https://www.qbittorrent.org
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.qbittorrent.org%22
 - [ ] ~~kalaksi~~ | https://www.kalaksi.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.kalaksi.com/%22
 - [ ] flus | https://flus.fr/
@@ -1744,20 +1744,18 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//groups.google.com/g/rss-public%22
 - [ ] RSS@lemmy.ml | https://lemmy.ml/c/rss
     - 搜索URL: https://www.google.com/search?q=%22https%3A//lemmy.ml/c/rss%22
-- [ ] Sonarr | https://sonarr.tv/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//sonarr.tv/%22
-- [ ] qBittorrent | https://www.qbittorrent.org
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.qbittorrent.org%22
+- [ ] Awesome RSSHub Routes | https://github.com/JackyST0/awesome-rsshub-routes
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/JackyST0/awesome-rsshub-routes%22
+- [ ] 中文独立博客列表 | https://github.com/timqian/chinese-independent-blogs
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/timqian/chinese-independent-blogs%22
 - [ ] Awesome-blogCN-feeds | https://github.com/RSS-Renaissance/awesome-blogCN-feeds
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/RSS-Renaissance/awesome-blogCN-feeds%22
-- [ ] Peach Blog | https://github.com/LeetaoGoooo/peach-blog
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/LeetaoGoooo/peach-blog%22
 - [ ] Calishain, T. (2020) ‘RSS: The Most Useful Dead Technology on the Internet’, Online Searcher, 44(1), p. 30-34. | http://www.infotoday.com/OnlineSearcher/Articles/Features/RSS-The-Most-Useful-Dead-Technology-on-the-Internet-139013.shtml
     - 搜索URL: https://www.google.com/search?q=%22http%3A//www.infotoday.com/OnlineSearcher/Articles/Features/RSS-The-Most-Useful-Dead-Technology-on-the-Internet-139013.shtml%22
-- [ ] Nobelium | https://github.com/craigary/nobelium
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/craigary/nobelium%22
 - [ ] Laura E. Pence, Harry E. Pence (2008) ‘Accessing and Managing Scientific Literature: Using RSS in the Classroom’, J. Chem. Educ., 85(10), p. 1449 | https://pubs.acs.org/doi/abs/10.1021/ed085p1449
     - 搜索URL: https://www.google.com/search?q=%22https%3A//pubs.acs.org/doi/abs/10.1021/ed085p1449%22
+- [ ] Tony Hammond, Timo Hannay, and Ben Lund (2004) ‘The Role of RSS in Science Publishing’, D-Lib Magazine, 10, 12 | http://dlib.org/dlib/december04/hammond/12hammond.html
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//dlib.org/dlib/december04/hammond/12hammond.html%22
 - [ ] RSS-同步世界最新资讯 @ 《文献管理与信息分析》 | https://open.163.com/newview/movie/free?pid=HEV46VJJD&mid=EEV46VKF2
     - 搜索URL: https://www.google.com/search?q=%22https%3A//open.163.com/newview/movie/free%3Fpid%3DHEV46VJJD%26mid%3DEEV46VKF2%22
 - [ ] 群晖 | https://www.synology.com/
@@ -1772,8 +1770,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.tnhh.net/posts/zenreader-4.7-in-rss-eink-reader.html%22
 - [ ] State of RSS 2020 | https://feeder.co/state-of-rss/2020
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feeder.co/state-of-rss/2020%22
-- [ ] Tony Hammond, Timo Hannay, and Ben Lund (2004) ‘The Role of RSS in Science Publishing’, D-Lib Magazine, 10, 12 | http://dlib.org/dlib/december04/hammond/12hammond.html
-    - 搜索URL: https://www.google.com/search?q=%22http%3A//dlib.org/dlib/december04/hammond/12hammond.html%22
+- [ ] 百度RSS新闻订阅功能 | https://wanyaxing.com/blog/20191213115747.html
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//wanyaxing.com/blog/20191213115747.html%22
 - [ ] New Twitter API Drops Support for RSS | https://mashable.com/2012/09/05/twitter-api-rss/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//mashable.com/2012/09/05/twitter-api-rss/%22
 - [ ] Raindrop.io | https://raindropio.canny.io/
@@ -1792,8 +1790,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.theregister.com/2021/08/16/google_groups_rss/%22
 - [ ] Is RSS dead? | http://isrssdead.com/
     - 搜索URL: https://www.google.com/search?q=%22http%3A//isrssdead.com/%22
-- [ ] 百度RSS新闻订阅功能 | https://wanyaxing.com/blog/20191213115747.html
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//wanyaxing.com/blog/20191213115747.html%22
+- [ ] Nobelium | https://github.com/craigary/nobelium
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/craigary/nobelium%22
 - [ ] Mapnews.io | https://mapnews.io/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//mapnews.io/%22
 - [ ] Rest In Peace Google Reader | https://web.archive.org/web/20210420205654/https://www.ripgooglereader.com/
@@ -1832,8 +1830,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.bullhorn.fm/%22
 - [ ] Feedspot | https://www.feedspot.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.feedspot.com/%22
-- [ ] Blog friend circle | https://github.com/prinsss/blog-friend-circle/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/prinsss/blog-friend-circle/%22
+- [ ] Peach Blog | https://github.com/LeetaoGoooo/peach-blog
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/LeetaoGoooo/peach-blog%22
 - [ ] Cosmicast | https://twitter.com/cosmicastapp
     - 搜索URL: https://www.google.com/search?q=%22https%3A//twitter.com/cosmicastapp%22
 - [ ] RSSANT 蚁阅 | https://rss.anyant.com/
@@ -1846,6 +1844,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22http%3A//rssrad.io/%22
 - [ ] GNOME Podcasts | https://gitlab.gnome.org/World/podcasts
     - 搜索URL: https://www.google.com/search?q=%22https%3A//gitlab.gnome.org/World/podcasts%22
+- [ ] AniVu | https://github.com/SkyD666/AniVu
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/SkyD666/AniVu%22
 - [ ] FocusPodcast | https://play.google.com/store/apps/details?id=allen.town.focus.podcast
     - 搜索URL: https://www.google.com/search?q=%22https%3A//play.google.com/store/apps/details%3Fid%3Dallen.town.focus.podcast%22
 - [ ] 领讲台 | https://www.lingjiangtai.com/
@@ -1862,14 +1862,14 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.douban.com/note/702906996/%22
 - [ ] 播客 RSS Feed | https://getpodcast.xyz/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//getpodcast.xyz/%22
-- [ ] AniVu | https://github.com/SkyD666/AniVu
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/SkyD666/AniVu%22
+- [ ] Blog friend circle | https://github.com/prinsss/blog-friend-circle/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/prinsss/blog-friend-circle/%22
 - [ ] Han-language Podcast on Twitter | https://twitter.com/aboutRSS/lists/list1
     - 搜索URL: https://www.google.com/search?q=%22https%3A//twitter.com/aboutRSS/lists/list1%22
 - [ ] 播客 × 万花筒 | https://pod.wht.one/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//pod.wht.one/%22
-- [ ] waifu!d for aria2 | https://github.com/pcmid/waifud
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/pcmid/waifud%22
+- [ ] KKBOX podcast | https://podcast.kkbox.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//podcast.kkbox.com/%22
 - [ ] Apple Podcast 人气最高的100个中文播客 | https://zhuanlan.zhihu.com/p/166002110
     - 搜索URL: https://www.google.com/search?q=%22https%3A//zhuanlan.zhihu.com/p/166002110%22
 - [ ] 分享你人为值得订阅的内容 by Notion中文社区 | https://www.notion.so/cnotion/Notion-Vol-13-89e51bdb621a4e009e7ec60d1cc58c2f
@@ -1890,14 +1890,14 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//thepodcastapp.dev/tools/rss-validator%22
 - [ ] Google Podcasts Manager | https://podcastsmanager.google.com/about?hl=en
     - 搜索URL: https://www.google.com/search?q=%22https%3A//podcastsmanager.google.com/about%3Fhl%3Den%22
-- [ ] KKBOX podcast | https://podcast.kkbox.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//podcast.kkbox.com/%22
+- [ ] KKBOX for Podcasters | https://podcast.kkbox.com/podcasters
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//podcast.kkbox.com/podcasters%22
 - [ ] 12 audio platforms summarized in a Google Docs | https://docs.google.com/document/d/1OurVCVVrVRVJMni5wmf2Ut2gE7_ti1MusxaaNCkiXDs/edit
     - 搜索URL: https://www.google.com/search?q=%22https%3A//docs.google.com/document/d/1OurVCVVrVRVJMni5wmf2Ut2gE7_ti1MusxaaNCkiXDs/edit%22
 - [ ] Listen Notes | https://www.listennotes.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.listennotes.com/%22
-- [ ] KKBOX for Podcasters | https://podcast.kkbox.com/podcasters
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//podcast.kkbox.com/podcasters%22
+- [ ] huffduffer | https://huffduffer.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//huffduffer.com/%22
 - [ ] podcast4us | https://podcast4us.herokuapp.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//podcast4us.herokuapp.com/%22
 - [ ] RECAST | https://recastthis.com/
@@ -1910,14 +1910,12 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.podnoms.com/%22
 - [ ] Listenbox | https://listenbox.app
     - 搜索URL: https://www.google.com/search?q=%22https%3A//listenbox.app%22
-- [ ] huffduffer | https://huffduffer.com/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//huffduffer.com/%22
+- [ ] waifu!d for aria2 | https://github.com/pcmid/waifud
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/pcmid/waifud%22
 - [ ] TwitchPOD | https://twitchpod.tv/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//twitchpod.tv/%22
 - [ ] HEADLINER | https://headliner.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//headliner.app/%22
-- [ ] Collect-Info-Research | https://github.com/p1g3/Collect-Info-Research
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/p1g3/Collect-Info-Research%22
 - [ ] Audiblogs | https://audiblogs.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//audiblogs.com/%22
 - [ ] POD GINIE | https://pod-genie.com/
@@ -1970,6 +1968,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//at4am.io/t/topic/6954%22
 - [ ] FeedMe | https://github.com/seazon/FeedMe/blob/master/README.md
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/seazon/FeedMe/blob/master/README.md%22
+- [ ] Collect-Info-Research | https://github.com/p1g3/Collect-Info-Research
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/p1g3/Collect-Info-Research%22
 - [ ] 4AM | https://at4am.io/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//at4am.io/%22
 - [ ] /r/podcasts : a subreddit | https://www.reddit.com/r/podcasts/
@@ -1994,8 +1994,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//flourish.studio%22
 - [ ] RSS指南 | https://efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d
     - 搜索URL: https://www.google.com/search?q=%22https%3A//efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d%22
-- [ ] YouCast | https://github.com/i3arnon/YouCast
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/i3arnon/YouCast%22
+- [ ] Podsync | https://github.com/mxpv/podsync
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/mxpv/podsync%22
 - [ ] @XMRer | https://twitter.com/XMRer/status/1517387830020145152
     - 搜索URL: https://www.google.com/search?q=%22https%3A//twitter.com/XMRer/status/1517387830020145152%22
 - [ ] Donators from Gitcoin | https://gitcoin.co/grants/5980/about-rss?tab=contributions
@@ -2010,8 +2010,8 @@ _生成于: 2026-10-15_
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.anyant.com/%22
 - [ ] RSSBox | https://rssbox.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rssbox.app/%22
-- [ ] Podsync | https://github.com/mxpv/podsync
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/mxpv/podsync%22
+- [ ] YouCast | https://github.com/i3arnon/YouCast
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/i3arnon/YouCast%22
 - [ ] Podcast RSS Generator | https://github.com/vpetersson/podcast-rss-generator/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/vpetersson/podcast-rss-generator/%22
 - [ ] Feed Readers @ Awesome-Selfhosted | https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers
